@@ -1,0 +1,56 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Screwdriver</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Screwdriver,_Birmingham-Shuttlesworth_International_Airport,_Birmingham_AL.jpg" class="image"><img alt="Screwdriver, Birmingham-Shuttlesworth International Airport, Birmingham AL.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg/220px-Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg/330px-Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg/440px-Screwdriver%2C_Birmingham-Shuttlesworth_International_Airport%2C_Birmingham_AL.jpg 2x" data-file-width="2130" data-file-height="2838" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">Screwdriver at the<br />
+<a href="/wiki/Birmingham-Shuttlesworth_International_Airport" class="mw-redirect" title="Birmingham-Shuttlesworth International Airport">Birmingham-Shuttlesworth International Airport</a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Vodka" title="Vodka">Vodka</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Orange_(fruit)" title="Orange (fruit)">orange</a> slice</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Highball_Glass_(Tumbler).svg" class="image"><img alt="Highball Glass (Tumbler).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/43px-Highball_Glass_%28Tumbler%29.svg.png" width="43" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/65px-Highball_Glass_%28Tumbler%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/86px-Highball_Glass_%28Tumbler%29.svg.png 2x" data-file-width="192" data-file-height="356" /></a></div>
+<a href="/wiki/Highball_glass" title="Highball glass">Highball glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>5 cL (1 part) <a href="/wiki/Vodka" title="Vodka">vodka</a></li>
+<li>10 cL (2 parts) <a href="/wiki/Orange_juice" title="Orange juice">orange juice</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Mix in a highball glass with ice. Garnish and serve.</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 80%">* <a rel="nofollow" class="external text" href="http://www.iba-world.com/english/cocktails/screwd.php">Screwdriver recipe</a> at <a href="/wiki/International_Bartenders_Association" title="International Bartenders Association">International Bartenders Association</a></td>
+</tr>
+

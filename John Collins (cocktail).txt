@@ -1,0 +1,48 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">John Collins</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/Mixed_drink" title="Mixed drink">Mixed drink</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Gin" title="Gin">Gin</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Lemon" title="Lemon">Lemon</a> slice and <a href="/wiki/Maraschino_cherry" title="Maraschino cherry">maraschino cherry</a></p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Collins_Glass.gif" class="image"><img alt="Collins Glass.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Collins_Glass.gif/45px-Collins_Glass.gif" width="45" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Collins_Glass.gif/68px-Collins_Glass.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Collins_Glass.gif/90px-Collins_Glass.gif 2x" data-file-width="467" data-file-height="764" /></a></div>
+<a href="/wiki/Collins_glass" title="Collins glass">Collins glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>4,5cl (3 parts) <a href="/wiki/Gin" title="Gin">Gin</a></li>
+<li>3cl (2 parts) freshly squeezed <a href="/wiki/Lemon_juice" class="mw-redirect" title="Lemon juice">lemon juice</a></li>
+<li>1,5cl (1 part) <a href="/wiki/Sugar_syrup" class="mw-redirect" title="Sugar syrup">sugar syrup</a></li>
+<li>6cl (4 parts) <a href="/wiki/Carbonated_water" title="Carbonated water">carbonated water</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.</td>
+</tr>
+

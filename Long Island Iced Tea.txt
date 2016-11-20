@@ -1,0 +1,56 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Long Island Iced Tea</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Long_Island_Iced_Teas.jpg" class="image"><img alt="Long Island Iced Teas.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Long_Island_Iced_Teas.jpg/220px-Long_Island_Iced_Teas.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Long_Island_Iced_Teas.jpg/330px-Long_Island_Iced_Teas.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Long_Island_Iced_Teas.jpg/440px-Long_Island_Iced_Teas.jpg 2x" data-file-width="640" data-file-height="640" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">The Long Island Iced Tea was named for its resemblance to non-alcoholic <a href="/wiki/Iced_tea" title="Iced tea">Iced tea</a>.</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Gin" title="Gin">Gin</a></li>
+<li><a href="/wiki/Tequila" title="Tequila">Tequila</a></li>
+<li><a href="/wiki/Vodka" title="Vodka">Vodka</a></li>
+<li><a href="/wiki/Rum" title="Rum">Rum</a></li>
+<li><a href="/wiki/Triple_sec" title="Triple sec">Triple sec</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Highball_Glass_(Tumbler).svg" class="image"><img alt="Highball Glass (Tumbler).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/43px-Highball_Glass_%28Tumbler%29.svg.png" width="43" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/65px-Highball_Glass_%28Tumbler%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/86px-Highball_Glass_%28Tumbler%29.svg.png 2x" data-file-width="192" data-file-height="356" /></a></div>
+<a href="/wiki/Highball_glass" title="Highball glass">Highball glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>1.5 cl <a href="/wiki/Tequila" title="Tequila">Tequila</a></li>
+<li>1.5 cl <a href="/wiki/Vodka" title="Vodka">Vodka</a></li>
+<li>1.5 cl <a href="/wiki/Light_rum" class="mw-redirect" title="Light rum">White rum</a></li>
+<li>1.5 cl <a href="/wiki/Triple_sec" title="Triple sec">Triple sec</a></li>
+<li>1.5 cl <a href="/wiki/Gin" title="Gin">Gin</a></li>
+<li>2.5 cl <a href="/wiki/Lemon_juice" class="mw-redirect" title="Lemon juice">Lemon juice</a></li>
+<li>3.0 cl <a href="/wiki/Gum_Syrup" class="mw-redirect" title="Gum Syrup">Gomme Syrup</a></li>
+<li>1 dash of <a href="/wiki/Cola" title="Cola">Cola</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Add all ingredients into highball glass filled with ice. Stir gently. Garnish with lemon spiral. Serve with straw. <sup id="cite_ref-ibaworld_1-0" class="reference"><a href="#cite_note-ibaworld-1">[1]</a></sup></td>
+</tr>
+

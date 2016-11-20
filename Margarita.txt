@@ -1,0 +1,53 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Margarita</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:MargaritaReal.jpg" class="image"><img alt="MargaritaReal.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/220px-MargaritaReal.jpg" width="220" height="258" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/330px-MargaritaReal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/440px-MargaritaReal.jpg 2x" data-file-width="1431" data-file-height="1680" /></a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Tequila" title="Tequila">Tequila</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Salt" title="Salt">Salt</a> on the rim</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Margarita_Glass_(Welled).svg" class="image"><img alt="Margarita Glass (Welled).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Margarita_Glass_%28Welled%29.svg/50px-Margarita_Glass_%28Welled%29.svg.png" width="50" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Margarita_Glass_%28Welled%29.svg/75px-Margarita_Glass_%28Welled%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Margarita_Glass_%28Welled%29.svg/100px-Margarita_Glass_%28Welled%29.svg.png 2x" data-file-width="325" data-file-height="456" /></a></div>
+<a href="/wiki/Margarita_glass" class="mw-redirect" title="Margarita glass">Margarita glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>3.5 cL (7 parts) <a href="/wiki/Tequila" title="Tequila">tequila</a></li>
+<li>2 cL (4 parts) <a href="/wiki/Cointreau" title="Cointreau">Cointreau</a></li>
+<li>1.5 cL (3 parts) <a href="/wiki/Lime_juice" class="mw-redirect" title="Lime juice">lime</a> juice</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 80%">* <a rel="nofollow" class="external text" href="http://www.iba-world.com/english/cocktails/margar.php">Margarita recipe</a> at <a href="/wiki/International_Bartenders_Association" title="International Bartenders Association">International Bartenders Association</a></td>
+</tr>
+

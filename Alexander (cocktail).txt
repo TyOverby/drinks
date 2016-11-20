@@ -1,0 +1,51 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Brandy Alexander</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Gin_Alexander_(4371721753).jpg" class="image"><img alt="Gin Alexander (4371721753).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gin_Alexander_%284371721753%29.jpg/220px-Gin_Alexander_%284371721753%29.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gin_Alexander_%284371721753%29.jpg/330px-Gin_Alexander_%284371721753%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gin_Alexander_%284371721753%29.jpg/440px-Gin_Alexander_%284371721753%29.jpg 2x" data-file-width="1536" data-file-height="2048" /></a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Cognac_(drink)" class="mw-redirect" title="Cognac (drink)">Cognac</a></li>
+<li><a href="/wiki/Cr%C3%A8me_de_cacao" class="mw-redirect" title="Crème de cacao">Crème de cacao</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i><a href="/wiki/Straight_up_(bartending)" class="mw-redirect" title="Straight up (bartending)">Straight up</a></i>; without ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Nutmeg" title="Nutmeg">Nutmeg</a></p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Cocktail_Glass_(Martini).svg" class="image"><img alt="Cocktail Glass (Martini).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/48px-Cocktail_Glass_%28Martini%29.svg.png" width="48" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/72px-Cocktail_Glass_%28Martini%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/96px-Cocktail_Glass_%28Martini%29.svg.png 2x" data-file-width="333" data-file-height="497" /></a></div>
+<a href="/wiki/Cocktail_glass" title="Cocktail glass">Cocktail glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>3 cl <a href="/wiki/Cognac" title="Cognac">cognac</a></li>
+<li>3 cl white <a href="/wiki/Cr%C3%A8me_de_cacao" class="mw-redirect" title="Crème de cacao">crème de cacao</a></li>
+<li>3 cl light <a href="/wiki/Cream" title="Cream">cream</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.</td>
+</tr>
+

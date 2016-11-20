@@ -1,0 +1,54 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Pisco sour</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Pisco_sour_20100613b.JPG" class="image" title="Photograph"><img alt="Photograph" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pisco_sour_20100613b.JPG/220px-Pisco_sour_20100613b.JPG" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pisco_sour_20100613b.JPG/330px-Pisco_sour_20100613b.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pisco_sour_20100613b.JPG/440px-Pisco_sour_20100613b.JPG 2x" data-file-width="2304" data-file-height="3072" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">Peruvian pisco sour</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Pisco" title="Pisco">Pisco</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i><a href="/wiki/Straight_up_(bartending)" class="mw-redirect" title="Straight up (bartending)">Straight up</a></i>; without ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Angostura_bitters" title="Angostura bitters">Angostura bitters</a> (1 dash)<sup class="reference" id="ref_Peruvian-note"><a href="#endnote_Peruvian-note">[b]</a></sup></p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Old_Fashioned_Glass.svg" class="image"><img alt="Old Fashioned Glass.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/50px-Old_Fashioned_Glass.svg.png" width="50" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/75px-Old_Fashioned_Glass.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/100px-Old_Fashioned_Glass.svg.png 2x" data-file-width="243" data-file-height="305" /></a></div>
+<a href="/wiki/Old_Fashioned_glass" title="Old Fashioned glass">Old Fashioned glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>4.5cl <a href="/wiki/Pisco" title="Pisco">Pisco</a></li>
+<li>3cl lemon juice <sup class="reference" id="ref_lime-note"><a href="#endnote_lime-note">[a]</a></sup></li>
+<li>2cl <a href="/wiki/Simple_syrup" class="mw-redirect" title="Simple syrup">Simple syrup</a></li>
+<li>1 <a href="/wiki/Egg_white" title="Egg white">Egg white</a><sup class="reference" id="ref_Peruvian-note"><a href="#endnote_Peruvian-note">[b]</a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Vigorously shake and strain contents in a <a href="/wiki/Cocktail_shaker" title="Cocktail shaker">cocktail shaker</a> with ice cubes, then pour into glass and garnish with bitters.<sup id="cite_ref-FOOTNOTEKosmasZaric2010115_1-0" class="reference"><a href="#cite_note-FOOTNOTEKosmasZaric2010115-1">[1]</a></sup></td>
+</tr>
+

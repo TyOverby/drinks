@@ -1,0 +1,61 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Whiskey sour</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Whiskey_Sour.jpg" class="image"><img alt="Whiskey Sour.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Whiskey_Sour.jpg/220px-Whiskey_Sour.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Whiskey_Sour.jpg/330px-Whiskey_Sour.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Whiskey_Sour.jpg/440px-Whiskey_Sour.jpg 2x" data-file-width="2112" data-file-height="2816" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">Whiskey sour with ice cubes and lemon slice</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Whisky" title="Whisky">Whiskey</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p>Maraschino cherry and half Orange slice</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Cocktail_Glass_(Martini).svg" class="image"><img alt="Cocktail Glass (Martini).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/48px-Cocktail_Glass_%28Martini%29.svg.png" width="48" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/72px-Cocktail_Glass_%28Martini%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/96px-Cocktail_Glass_%28Martini%29.svg.png 2x" data-file-width="333" data-file-height="497" /></a></div>
+<a href="/wiki/Cocktail_glass" title="Cocktail glass">Cocktail glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>4.5 cl (3 parts) <a href="/wiki/Bourbon_whiskey" title="Bourbon whiskey">Bourbon whiskey</a></li>
+<li>3 cl (2 parts) fresh <a href="/wiki/Lemon_juice" class="mw-redirect" title="Lemon juice">lemon juice</a></li>
+<li>1.5 cl (1 part) <a href="/wiki/Gum_syrup" class="mw-redirect" title="Gum syrup">Gomme syrup</a></li>
+<li>dash <a href="/wiki/Egg_white" title="Egg white">egg white</a> (optional)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Shake with ice. Strain into chilled glass, garnish and serve.</td>
+</tr>
+<tr>
+<th>Notes</th>
+<td>If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 80%"><a rel="nofollow" class="external text" href="http://www.drinkboy.com/Cocktails/Recipe.aspx?itemid=167">Whiskey Sour recipe</a> at <a rel="nofollow" class="external text" href="http://www.drinkboy.com/Cocktails/">DrinkBoy</a> <a rel="nofollow" class="external text" href="http://www.iba-world.com/index.php?option=com_content&amp;id=211&amp;tmpl=component&amp;task=preview&amp;Itemid=532">IBA</a></td>
+</tr>
+

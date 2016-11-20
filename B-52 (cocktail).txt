@@ -1,0 +1,55 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">B-52</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Cocktail_B52.jpg" class="image"><img alt="Cocktail B52.jpg" src="//upload.wikimedia.org/wikipedia/commons/3/3a/Cocktail_B52.jpg" width="128" height="220" data-file-width="128" data-file-height="220" /></a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/Mixed_drink_shooters_and_drink_shots" class="mw-redirect" title="Mixed drink shooters and drink shots">Layered shooter</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/List_of_liqueurs#Coffee_liqueurs" title="List of liqueurs">Coffee liqueur</a></li>
+<li><a href="/wiki/Irish_cream" title="Irish cream">Irish cream</a></li>
+<li><a href="/wiki/List_of_liqueurs#Fruit_liqueurs" title="List of liqueurs">Orange-flavored liqueur</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>Neat</i>; undiluted and without ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p>Stirrer</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Shot_Glass_(Standard).svg" class="image"><img alt="Shot Glass (Standard).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Shot_Glass_%28Standard%29.svg/40px-Shot_Glass_%28Standard%29.svg.png" width="40" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Shot_Glass_%28Standard%29.svg/60px-Shot_Glass_%28Standard%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Shot_Glass_%28Standard%29.svg/80px-Shot_Glass_%28Standard%29.svg.png 2x" data-file-width="201" data-file-height="272" /></a></div>
+<a href="/wiki/Shot_glass" title="Shot glass">Shot glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>2 cl (1 part) <a href="/wiki/List_of_liqueurs#Coffee_liqueurs" title="List of liqueurs">coffee liqueur</a> (<a href="/wiki/Kahl%C3%BAa" title="Kahlúa">Kahlúa</a>)</li>
+<li>2 cl (1 part) <a href="/wiki/Irish_Cream" class="mw-redirect" title="Irish Cream">Irish Cream</a> (<a href="/wiki/Baileys_Irish_Cream" title="Baileys Irish Cream">Baileys Irish Cream</a>)</li>
+<li>2 cl (1 part) <a href="/wiki/Cognac_(brandy)" class="mw-redirect" title="Cognac (brandy)">Orange Cognac</a> (<a href="/wiki/Grand_Marnier" title="Grand Marnier">Grand Marnier</a>)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Layer ingredients into a shot glass. Serve with a stirrer.</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 80%">* <a rel="nofollow" class="external text" href="http://www.iba-world.com/english/cocktails/b52.php">B-52 recipe</a> at <a href="/wiki/International_Bartenders_Association" title="International Bartenders Association">International Bartenders Association</a></td>
+</tr>
+

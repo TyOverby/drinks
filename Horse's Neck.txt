@@ -1,0 +1,53 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Horse's Neck</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Horse%27s_Neck_cocktail.jpg" class="image"><img alt="Horse's Neck cocktail.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horse%27s_Neck_cocktail.jpg/220px-Horse%27s_Neck_cocktail.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horse%27s_Neck_cocktail.jpg/330px-Horse%27s_Neck_cocktail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horse%27s_Neck_cocktail.jpg/440px-Horse%27s_Neck_cocktail.jpg 2x" data-file-width="480" data-file-height="640" /></a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/Mixed_drink" title="Mixed drink">Mixed drink</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Brandy" title="Brandy">Brandy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p>Long spiral of <a href="/wiki/Lemon" title="Lemon">lemon</a> <a href="/wiki/Zest_(ingredient)" title="Zest (ingredient)">zest</a></p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Highball_Glass_(Tumbler).svg" class="image"><img alt="Highball Glass (Tumbler).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/43px-Highball_Glass_%28Tumbler%29.svg.png" width="43" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/65px-Highball_Glass_%28Tumbler%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/86px-Highball_Glass_%28Tumbler%29.svg.png 2x" data-file-width="192" data-file-height="356" /></a></div>
+<a href="/wiki/Highball_glass" title="Highball glass">Highball glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>4 cL (1 part) <a href="/wiki/Brandy" title="Brandy">Brandy</a></li>
+<li>12 cL (3 parts) <a href="/wiki/Ginger_ale" title="Ginger ale">Ginger ale</a></li>
+<li>Dash of <a href="/wiki/Angostura_bitter" class="mw-redirect" title="Angostura bitter">Angostura bitter</a> (optional)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 80%">* <a rel="nofollow" class="external text" href="http://www.iba-world.com/english/cocktails/horsen.php">Horse's Neck recipe</a> at <a href="/wiki/International_Bartenders_Association" title="International Bartenders Association">International Bartenders Association</a></td>
+</tr>
+

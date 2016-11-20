@@ -1,0 +1,42 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">French Martini</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Vodka" title="Vodka">Vodka</a></li>
+<li>Raspberry liqueur</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i><a href="/wiki/Straight_up_(bartending)" class="mw-redirect" title="Straight up (bartending)">Straight up</a></i>; without ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Cocktail_Glass_(Martini).svg" class="image"><img alt="Cocktail Glass (Martini).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/48px-Cocktail_Glass_%28Martini%29.svg.png" width="48" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/72px-Cocktail_Glass_%28Martini%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/96px-Cocktail_Glass_%28Martini%29.svg.png 2x" data-file-width="333" data-file-height="497" /></a></div>
+<a href="/wiki/Cocktail_glass" title="Cocktail glass">Cocktail glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>1.5 cl <a href="/w/index.php?title=Grey_Goose_Vodka&amp;action=edit&amp;redlink=1" class="new" title="Grey Goose Vodka (page does not exist)">Grey Goose Vodka</a></li>
+<li>1.5 cl <a href="/wiki/Chambord_Liqueur" title="Chambord Liqueur">Chambord</a></li>
+<li>3.0 cl fresh <a href="/wiki/Pineapple" title="Pineapple">pineapple</a> juice</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Pour all ingredients into mixing glass with ice cubes. Shake well and strain into a chilled cocktail glass.</td>
+</tr>
+

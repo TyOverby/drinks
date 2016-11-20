@@ -1,0 +1,53 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Manhattan</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Manhattan_Cocktail2.jpg" class="image"><img alt="Manhattan Cocktail2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manhattan_Cocktail2.jpg/220px-Manhattan_Cocktail2.jpg" width="220" height="193" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manhattan_Cocktail2.jpg/330px-Manhattan_Cocktail2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manhattan_Cocktail2.jpg/440px-Manhattan_Cocktail2.jpg 2x" data-file-width="1432" data-file-height="1254" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">A classic 2:1 Manhattan, made with Canadian whisky, sweet vermouth, bitters, and a cherry</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Whisky" title="Whisky">Whiskey</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i><a href="/wiki/Straight_up_(bartending)" class="mw-redirect" title="Straight up (bartending)">Straight up</a></i>; without ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Maraschino_cherry" title="Maraschino cherry">Maraschino cherry</a></p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Cocktail_Glass_(Martini).svg" class="image"><img alt="Cocktail Glass (Martini).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/48px-Cocktail_Glass_%28Martini%29.svg.png" width="48" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/72px-Cocktail_Glass_%28Martini%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/96px-Cocktail_Glass_%28Martini%29.svg.png 2x" data-file-width="333" data-file-height="497" /></a></div>
+<a href="/wiki/Cocktail_glass" title="Cocktail glass">Cocktail glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>5 cL <a href="/wiki/Rye_whiskey" title="Rye whiskey">Rye whiskey</a></li>
+<li>2 cL Sweet red <a href="/wiki/Vermouth" title="Vermouth">vermouth</a></li>
+<li>Dash <a href="/wiki/Angostura_bitters" title="Angostura bitters">Angostura bitters</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Stirred over ice, strained into a chilled glass, garnished, and served up.</td>
+</tr>
+

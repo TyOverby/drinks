@@ -1,0 +1,46 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Rusty Nail</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Scotch_whisky" title="Scotch whisky">Scotch whisky</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p>Lemon twist</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Old_Fashioned_Glass.svg" class="image"><img alt="Old Fashioned Glass.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/50px-Old_Fashioned_Glass.svg.png" width="50" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/75px-Old_Fashioned_Glass.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/100px-Old_Fashioned_Glass.svg.png 2x" data-file-width="243" data-file-height="305" /></a></div>
+<a href="/wiki/Old_Fashioned_glass" title="Old Fashioned glass">Old Fashioned glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>4.5 cl <a href="/wiki/Scotch_Whisky" class="mw-redirect" title="Scotch Whisky">Scotch Whisky</a></li>
+<li>2.5 cl <a href="/wiki/Drambuie" title="Drambuie">Drambuie</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Pour all ingredients directly into old-fashioned glass filled with ice. Stir gently. Garnish with a lemon twist. Serve.</td>
+</tr>
+

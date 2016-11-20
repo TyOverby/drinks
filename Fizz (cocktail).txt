@@ -1,0 +1,19 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Fizz</caption>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:15-09-26-RalfR-WLC-0032.jpg" class="image"><img alt="15-09-26-RalfR-WLC-0032.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/15-09-26-RalfR-WLC-0032.jpg/220px-15-09-26-RalfR-WLC-0032.jpg" width="220" height="329" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/15-09-26-RalfR-WLC-0032.jpg/330px-15-09-26-RalfR-WLC-0032.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/15-09-26-RalfR-WLC-0032.jpg/440px-15-09-26-RalfR-WLC-0032.jpg 2x" data-file-width="2476" data-file-height="3706" /></a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/Cocktail" title="Cocktail">Cocktail family</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Alcohol common in this class of cocktail</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Gin" title="Gin">Gin</a></li>
+<li><a href="/wiki/Whisky" title="Whisky">Whiskey</a></li>
+<li><a href="/wiki/Rum" title="Rum">Rum</a></li>
+</ul>
+</td>
+</tr>
+

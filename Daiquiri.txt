@@ -1,0 +1,47 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Daiquiri</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Classic_Daiquiri_in_Cocktail_Glass.jpg" class="image"><img alt="Classic Daiquiri in Cocktail Glass.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg/220px-Classic_Daiquiri_in_Cocktail_Glass.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg/330px-Classic_Daiquiri_in_Cocktail_Glass.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg/440px-Classic_Daiquiri_in_Cocktail_Glass.jpg 2x" data-file-width="3456" data-file-height="3456" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">Classic Daiquiri served in a cocktail glass</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Rum" title="Rum">Rum</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i><a href="/wiki/Straight_up_(bartending)" class="mw-redirect" title="Straight up (bartending)">Straight up</a></i>; without ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Cocktail_Glass_(Martini).svg" class="image"><img alt="Cocktail Glass (Martini).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/48px-Cocktail_Glass_%28Martini%29.svg.png" width="48" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/72px-Cocktail_Glass_%28Martini%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cocktail_Glass_%28Martini%29.svg/96px-Cocktail_Glass_%28Martini%29.svg.png 2x" data-file-width="333" data-file-height="497" /></a></div>
+<a href="/wiki/Cocktail_glass" title="Cocktail glass">Cocktail glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>4.5 cl (9 parts) <a href="/wiki/White_rum" class="mw-redirect" title="White rum">white rum</a></li>
+<li>2.5 cl (5 parts) <a href="/wiki/Lime_juice" class="mw-redirect" title="Lime juice">lime juice</a></li>
+<li>1.5 cl (3 parts) <a href="/wiki/Syrup#Simple_syrup" title="Syrup">simple syrup</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Pour all ingredients into <a href="/wiki/Cocktail_shaker" title="Cocktail shaker">shaker</a> with ice cubes. Shake well. Strain in chilled cocktail glass.</td>
+</tr>
+

@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Amaretto - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Amaretto","wgTitle":"Amaretto","wgCurRevisionId":749380415,"wgRevisionId":749380415,"wgArticleId":538184,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use mdy dates from October 2016","All articles with unsourced statements","Articles with unsourced statements from January 2013","Commons category with local link same as on Wikidata","Amaretto liqueurs","Almond dishes","Fruit liqueurs","Italian liqueurs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Amaretto","wgRelevantArticleId":538184,"wgRequestId":"WCvPxgpAIDUAAGGaKNgAAABJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q455045","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.2"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Amaretto"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Amaretto&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Amaretto&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Amaretto"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Amaretto rootpage-Amaretto skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Amaretto</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div role="note" class="hatnote">For other uses, see <a href="/wiki/Amaretto_(disambiguation)" class="mw-disambig" title="Amaretto (disambiguation)">Amaretto (disambiguation)</a>.</div>
+<div role="note" class="hatnote">Not to be confused with <a href="/wiki/Amoretto" class="mw-redirect" title="Amoretto">Amoretto</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Amaretto_Bottles_4.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Amaretto_Bottles_4.JPG/300px-Amaretto_Bottles_4.JPG" width="300" height="236" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Amaretto_Bottles_4.JPG/450px-Amaretto_Bottles_4.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Amaretto_Bottles_4.JPG/600px-Amaretto_Bottles_4.JPG 2x" data-file-width="3474" data-file-height="2731" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Amaretto_Bottles_4.JPG" class="internal" title="Enlarge"></a></div>
+Bottles of amaretto liqueur.</div>
+</div>
+</div>
+<p><b>Amaretto</b> (Italian for "a little bitter") is a sweet, <a href="/wiki/Almond" title="Almond">almond-flavoured</a>, Italian <a href="/wiki/Liqueur" title="Liqueur">liqueur</a> associated with <a href="/wiki/Saronno" title="Saronno">Saronno</a>, <a href="/wiki/Italy" title="Italy">Italy</a>. Various commercial brands are made from a base of <a href="/wiki/Apricot" title="Apricot">apricot</a> pits, almonds, or both.<sup id="cite_ref-franciacorta_1-0" class="reference"><a href="#cite_note-franciacorta-1">[1]</a></sup></p>
+<p>Amaretto serves a variety of culinary uses, can be drunk by itself, and is added to other beverages to create several popular <a href="/wiki/Cocktail" title="Cocktail">mixed drinks</a>, as well as to <a href="/wiki/Coffee" title="Coffee">coffee</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Etymology"><span class="tocnumber">1.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Legend"><span class="tocnumber">1.2</span> <span class="toctext">Legend</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Brands"><span class="tocnumber">2</span> <span class="toctext">Brands</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Disaronno_Originale"><span class="tocnumber">2.1</span> <span class="toctext">Disaronno Originale</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Lazzaroni_Amaretto"><span class="tocnumber">2.2</span> <span class="toctext">Lazzaroni Amaretto</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Other_brands"><span class="tocnumber">2.3</span> <span class="toctext">Other brands</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Usage"><span class="tocnumber">3</span> <span class="toctext">Usage</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Cooking"><span class="tocnumber">3.1</span> <span class="toctext">Cooking</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Beverages"><span class="tocnumber">3.2</span> <span class="toctext">Beverages</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Ice_cream"><span class="tocnumber">3.3</span> <span class="toctext">Ice cream</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The name <i>amaretto</i> originated as a <a href="/wiki/Diminutive#Italian" title="Diminutive">diminutive</a> of the <a href="/wiki/Italian_language" title="Italian language">Italian</a> word <i>amaro</i>, meaning "bitter", which references the distinctive flavour lent by the <i>mandorla amara</i> (the <a href="/wiki/Bitter_almonds" class="mw-redirect" title="Bitter almonds">bitter almond</a>) or by the <a href="/wiki/Drupe" title="Drupe">drupe</a> kernel. However, the bitterness is not unpalatable, and sweeteners—and sometimes sweet almonds—enhance the flavour in the final products.<sup id="cite_ref-Almonds_2-0" class="reference"><a href="#cite_note-Almonds-2">[2]</a></sup> Thus one can interpret the liqueur's name as a description of the taste as "a little bitter".</p>
+<p>Conflation of <b>amaro</b> ("bitter") and <b>amore</b> ("love") has led to associations with romance.<sup id="cite_ref-Etymology_3-0" class="reference"><a href="#cite_note-Etymology-3">[3]</a></sup></p>
+<p>One should not confuse amaretto with <a href="/wiki/Amaro_(liqueur)" title="Amaro (liqueur)">amaro</a>, a different family of Italian liqueurs that, while also sweetened, have a stronger bitter flavour deriving from herbs.</p>
+<h3><span class="mw-headline" id="Legend">Legend</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=3" title="Edit section: Legend">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite the known history on the introduction and acceptance of almonds into Italian cuisine, newer takes on the meanings and origins have been popularized by the two major brands. Though of sometimes questionable factuality, these tales hold a sentimental place in Saronno culture:</p>
+<dl>
+<dd>In 1525, a <a href="/wiki/Saronno" title="Saronno">Saronno</a> church commissioned artist <a href="/wiki/Bernardino_Luini" title="Bernardino Luini">Bernardino Luini</a>, one of <a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">Leonardo da Vinci</a>'s pupils, to paint their <a href="/wiki/Sanctuary" title="Sanctuary">sanctuary</a> with <a href="/wiki/Fresco" title="Fresco">frescoes</a>. As the church was dedicated to the <a href="/wiki/Virgin_Mary" class="mw-redirect" title="Virgin Mary">Virgin Mary</a>, Luini needed to depict the <a href="/wiki/Madonna_(art)" title="Madonna (art)">Madonna</a>, but was in need of a model. He found his inspiration in a young widowed innkeeper, who became his model and (in most versions) lover. Out of gratitude and affection, the woman wished to give him a gift. Her simple means did not permit much, so she steeped apricot kernels in brandy and presented the resulting concoction to a touched Luini.<sup id="cite_ref-FoodNetwork_4-0" class="reference"><a href="#cite_note-FoodNetwork-4">[4]</a></sup><sup id="cite_ref-Disaronno_Legend_5-0" class="reference"><a href="#cite_note-Disaronno_Legend-5">[5]</a></sup></dd>
+</dl>
+<h2><span class="mw-headline" id="Brands">Brands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=4" title="Edit section: Brands">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Disaronno_Originale">Disaronno Originale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=5" title="Edit section: Disaronno Originale">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Disaronno" title="Disaronno">Disaronno</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Disaronno_Originale_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Disaronno_Originale_2.jpg/170px-Disaronno_Originale_2.jpg" width="170" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Disaronno_Originale_2.jpg/255px-Disaronno_Originale_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Disaronno_Originale_2.jpg/340px-Disaronno_Originale_2.jpg 2x" data-file-width="1866" data-file-height="3624" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Disaronno_Originale_2.jpg" class="internal" title="Enlarge"></a></div>
+The <i>Disaronno Originale</i> rectangular bottle, which was marketed as an amaretto until 2001.</div>
+</div>
+</div>
+<p><i><b>Disaronno Originale</b></i> (28% <a href="/wiki/Alcohol_by_volume" title="Alcohol by volume">abv</a>) has a characteristic bittersweet almond taste (although it contains no almonds or nuts) and is known for its distinctive appearance. Disaronno has been in commercial production since about 1900. It claims its "originale" amaretto's "secret formula" is unchanged from 1525,<sup id="cite_ref-Disaronno_Story_6-0" class="reference"><a href="#cite_note-Disaronno_Story-6">[6]</a></sup> and claims the Luini tale as its own particular history. Its production remains in <a href="/wiki/Saronno" title="Saronno">Saronno</a>, but the product is sold worldwide.</p>
+<p>The company describes its amaretto as an infusion of "apricot kernel oil" with "absolute alcohol, burnt sugar, and the pure essence of seventeen selected herbs and fruits". The amber liqueur is presented in a rectangular glass decanter designed by a <a href="/wiki/Artisan" title="Artisan">craftsman</a> from <a href="/wiki/Murano" title="Murano">Murano</a>.</p>
+<p>The product was originally named "Amaretto di Saronno Originale" (Original Amaretto from Saronno). It subsequently changed to "Amaretto Disaronno", transforming the origin of the product into a more distinctive brand name. Finally, it changed once more to "Disaronno Originale"; it has not marketed itself as an "amaretto" since 2001.</p>
+<p>According to the Disaronno website, their amaretto contains no almonds, and is nut-free. Therefore, it is safe for people with nut or related allergies.</p>
+<h3><span class="mw-headline" id="Lazzaroni_Amaretto">Lazzaroni Amaretto</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=6" title="Edit section: Lazzaroni Amaretto">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i><b>Lazzaroni Amaretto</b></i> (24% <a href="/wiki/Alcohol_by_volume" title="Alcohol by volume">abv</a>), produced by <a rel="nofollow" class="external text" href="https://www.chiostrodisaronno.it/en/c/4-about-us">Paolo Lazzaroni &amp; Figli S.p.A.</a>, also presents itself as the first such liqueur. It is based on an infusion of <a href="/wiki/Amaretti_di_Saronno" title="Amaretti di Saronno">Amaretti di Saronno</a> (macaroons), a process which imparts a "delicate almond/apricot flavour". Lazzaroni claim the tale of the young couple blessed by the bishop as the origin of their generations-guarded family recipe, dating it to 1718; the amaretto has been in production since 1851.<sup id="cite_ref-Lazzaroni_Amaretto_7-0" class="reference"><a href="#cite_note-Lazzaroni_Amaretto-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Other_brands">Other brands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=7" title="Edit section: Other brands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many <a href="/wiki/Distilled_beverage" title="Distilled beverage">distillers</a> produce their own brand of amaretto. Among them are <a href="/wiki/Lucas_Bols" title="Lucas Bols">Bols</a>, <a href="/wiki/DeKuyper" title="DeKuyper">DeKuyper</a>, <a href="/wiki/Hiram_Walker" title="Hiram Walker">Hiram Walker</a>, <a href="/wiki/Girolamo_Luxardo" title="Girolamo Luxardo">Luxardo</a>, <a href="/wiki/Mr._Boston" title="Mr. Boston">Mr. Boston</a>, <a href="/w/index.php?title=Paramount_Distillers&amp;action=edit&amp;redlink=1" class="new" title="Paramount Distillers (page does not exist)">Paramount</a>, and <a href="/wiki/Phillips_Distilling_Company" title="Phillips Distilling Company">Phillips</a>.</p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=8" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Amaretto serves a variety of culinary uses.</p>
+<h3><span class="mw-headline" id="Cooking">Cooking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=9" title="Edit section: Cooking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Amaretto is added to desserts, including ice cream, which enhances the flavour of the dessert with almonds and complements chocolate. <a href="/wiki/Tiramisu" title="Tiramisu">Tiramisu</a>, a popular Italian cake, is often flavoured with either real amaretto or alcohol-free amaretto aroma.</li>
+<li>Savoury recipes which call for it usually focus on meat, such as chicken.</li>
+<li>A few shots of amaretto can be added to pancake batter for a richer flavour.</li>
+<li>Amaretto is often added to almondine sauce for fish and vegetables.</li>
+<li>Amaretto is often added to whipped cream.</li>
+</ul>
+<h3><span class="mw-headline" id="Beverages">Beverages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=10" title="Edit section: Beverages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Amaretto may be served <a href="/wiki/Bartending_terminology#.22Straight.2C_.22straight_up.2C.22_.22up.2C.22_and_.22neat.22" title="Bartending terminology">neat</a> (by itself) or on <a href="/wiki/Ice_cube" title="Ice cube">ice</a>. It is often added to other beverages to create several popular <a href="/wiki/Cocktail" title="Cocktail">mixed drinks</a>. It is also a popular choice of liqueur to add to coffee in the morning.</p>
+<p>The following cocktails highlight Amaretto liqueur as a primary ingredient.</p>
+<ul>
+<li><i><a href="/wiki/French_Connection_(cocktail)" title="French Connection (cocktail)">French Connection</a></i>. Ingredients: Amaretto liqueur, <a href="/wiki/Cognac" title="Cognac">Cognac</a> and ice cubes
+<div align="right" style="clear:right; float:right; border: thin dashed goldenrod; background: gold; font-size:90%; font-weight:bolder; line-height:110%; padding:3pt 6pt; text-align:center; width:150px;">An <a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></div>
+</li>
+<li><i><a href="/wiki/Godfather_(cocktail)" title="Godfather (cocktail)">Godfather</a></i>. Ingredients: Amaretto liqueur, <a href="/wiki/Scotch_whisky" title="Scotch whisky">Scotch</a> and ice cubes.
+<div align="right" style="clear:right; float:right; border: thin dashed goldenrod; background: gold; font-size:90%; font-weight:bolder; line-height:110%; padding:3pt 6pt; text-align:center; width:150px;">An <a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></div>
+</li>
+<li><i>Godmother</i>. Ingredients: Amaretto liqueur, <a href="/wiki/Vodka" title="Vodka">Vodka</a> and ice cubes.
+<div align="right" style="clear:right; float:right; border: thin dashed goldenrod; background: gold; font-size:90%; font-weight:bolder; line-height:110%; padding:3pt 6pt; text-align:center; width:150px;">An <a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></div>
+</li>
+<li><i>Godchild</i>. Ingredients: Amaretto liqueur, <a href="/wiki/Cream" title="Cream">Cream</a> and ice cubes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><i>Hurricane Jenny</i>. Ingredients: Amaretto liqueur, Soda such as 7-up, Sprite or Sierra Mist and ice cubes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><i>Toasted Almond</i>. Ingredients: Amaretto liqueur, <a href="/wiki/Kahl%C3%BAa" title="Kahlúa">Kahlúa</a>, cream and ice cubes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><i>Bocce Ball/Almond Tree</i>. Ingredients: Amaretto liqueur, <a href="/wiki/Orange_juice" title="Orange juice">orange juice</a>, <a href="/wiki/Carbonated_water" title="Carbonated water">club soda</a> and ice cubes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><i>Cuban Breeze</i>. Ingredients: Amaretto liqueur, Vodka, <a href="/wiki/Pineapple" title="Pineapple">pineapple</a> juice and ice cubes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><i>Lounge Lizard</i>. Ingredients: Amaretto liqueur, dark rum, cola and ice cubes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><i>Amaretto Sour</i>. Ingredients: Amaretto liqueur, lemon juice and ice cubes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></li>
+<li><i>Twilight Amaretto Sour</i>. Ingredients: Amaretto liqueur, <a href="/wiki/Bourbon_whiskey" title="Bourbon whiskey">bourbon whiskey</a>, lemon-lime soda, lemon juice, and sugar.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li><i>Snickerdoodle Cookie Martini</i>. Ingredients: Amaretto liqueur, cinnamon liqueur, and cinnamon vodka.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li><i>Nutcracker Martini</i>. Ingredients: Amaretto liqueur, dark <a href="/wiki/Chocolate_liqueur" title="Chocolate liqueur">crème de cacao</a>, vodka, and <a href="/wiki/Irish_cream" title="Irish cream">Irish cream</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+<li><i>Amaretto Sour variant</i>. Ingredients: Amaretto liqueur, egg white, cask strength bourbon, lemon juice, and simple syrup. Shake and pour over ice.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li><i>Amaretto Piña Colada</i>. Ingredients: Amaretto liqueur, light rum, coconut milk, pineapple juice, and ice cubes.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li><i>Amaretto Stone Sour</i>. Ingredients: Amaretto liqueur, orange juice, and sour mix.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>Amaretto is sometimes used as a substitute for <a href="/wiki/Orgeat_Syrup" class="mw-redirect" title="Orgeat Syrup">Orgeat Syrup</a> in places where the syrup cannot be found, or just to impart a less sweet flavour. This is a common practice in UK bars when serving <a href="/wiki/Mai_Tai" title="Mai Tai">Mai Tais</a>.</li>
+</ul>
+<h3><span class="mw-headline" id="Ice_cream">Ice cream</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=11" title="Edit section: Ice cream">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Amaretto can be added to ice cream.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Flessen_drank.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flessen_drank.jpg/32px-Flessen_drank.jpg" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flessen_drank.jpg/48px-Flessen_drank.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flessen_drank.jpg/64px-Flessen_drank.jpg 2x" data-file-width="1956" data-file-height="1279" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Liquor" title="Portal:Liquor">Liquor portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/List_of_cocktails" title="List of cocktails">List of cocktails</a></li>
+<li><a href="/wiki/List_of_almond_dishes" title="List of almond dishes">List of almond dishes</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-franciacorta-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-franciacorta_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120712062645/http://www.ahardyusa.com/italian_liqueurs/GOZIO_Amaretto.aspx">"GOZIO Amaretto Almond Liqueur"</a>. AHardy USA Ltd. Archived from <a rel="nofollow" class="external text" href="http://www.ahardyusa.com/italian_liqueurs/GOZIO_Amaretto.aspx">the original</a> on July 12, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">October 18,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.btitle=GOZIO+Amaretto+Almond+Liqueur&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ahardyusa.com%2Fitalian_liqueurs%2FGOZIO_Amaretto.aspx&amp;rft.pub=AHardy+USA+Ltd.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Almonds-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Almonds_2-0">^</a></b></span> <span class="reference-text">Hopkins, Kate. <a rel="nofollow" class="external text" href="http://www.accidentalhedonist.com/index.php/2004/08/28/almonds_who_really_cares">"Almonds: Who Really Cares?"</a> (August 28, 2004). Accidental Hedonist. Retrieved January 1, 2007.</span></li>
+<li id="cite_note-Etymology-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Etymology_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, Douglas. <a rel="nofollow" class="external text" href="http://www.etymonline.com/?term=Amaretto">"Amaretto"</a>. <i><a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">Online Etymology Dictionary</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.atitle=Amaretto&amp;rft.au=Harper%2C+Douglas&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2F%3Fterm%3DAmaretto&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FoodNetwork-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FoodNetwork_4-0">^</a></b></span> <span class="reference-text">foodnetwork.ca. <a rel="nofollow" class="external text" href="http://www.foodnetwork.ca/guides/a-brief-history-of-amaretto/8076/story.html">"A Brief History of Amaretto"</a>. Shaw Media Inc. Retrieved December 30, 2011.</span></li>
+<li id="cite_note-Disaronno_Legend-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Disaronno_Legend_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.disaronno.com/home.aspx">Disaronno</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091216105044/http://www.disaronno.com/home.aspx">Archived</a> December 16, 2009, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Retrieved January 1, 2007. Home → Heritage → Page 2: <i>The Legend</i>. (A direct link is not available due to the <a href="/wiki/Adobe_Flash" title="Adobe Flash">Adobe Flash</a>-based interface.)</span></li>
+<li id="cite_note-Disaronno_Story-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Disaronno_Story_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.disaronno.com/home.aspx">Disaronno</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091216105044/http://www.disaronno.com/home.aspx">Archived</a> December 16, 2009, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Retrieved January 1, 2007. Home → Heritage → Page 4: <i>The "Originale" Story</i>. (A direct link is not available due to the <a href="/wiki/Adobe_Flash" title="Adobe Flash">Adobe Flash</a>-based interface.)</span></li>
+<li id="cite_note-Lazzaroni_Amaretto-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lazzaroni_Amaretto_7-0">^</a></b></span> <span class="reference-text">Product description. <a rel="nofollow" class="external text" href="http://www.heaven-hill.com/brands-cordials.html">Lazzaroni Amaretto</a>. Heaven Hill Distilleries. Retrieved January 1, 2007.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dekuyperusa.com/recipe/twilight-amaretto-sour">"Twilight Amaretto Sour"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.btitle=Twilight+Amaretto+Sour&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dekuyperusa.com%2Frecipe%2Ftwilight-amaretto-sour&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dekuyperusa.com/recipe/snickerdoodle-cookie-martini">"Snickerdoodle Cookie Martini"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.btitle=Snickerdoodle+Cookie+Martini&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dekuyperusa.com%2Frecipe%2Fsnickerdoodle-cookie-martini&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dekuyperusa.com/recipe/nutcracker-martini">"DeKuyper Nutcracker Martini"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.btitle=DeKuyper+Nutcracker+Martini&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dekuyperusa.com%2Frecipe%2Fnutcracker-martini&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Morgenthaler, Jeffrey. <a rel="nofollow" class="external text" href="http://www.jeffreymorgenthaler.com/2012/i-make-the-best-amaretto-sour-in-the-world/">"I Make the Best Amaretto Sour in the World"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 12,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.aufirst=Jeffrey&amp;rft.aulast=Morgenthaler&amp;rft.btitle=I+Make+the+Best+Amaretto+Sour+in+the+World&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.jeffreymorgenthaler.com%2F2012%2Fi-make-the-best-amaretto-sour-in-the-world%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dekuyperusa.com/recipe/amaretto-pina-colada">"Amaretto Pina Colada"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.btitle=Amaretto+Pina+Colada&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dekuyperusa.com%2Frecipe%2Famaretto-pina-colada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.drinksmixer.com/drink824.html">"Amaretto Stone Sour recipe"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.btitle=Amaretto+Stone+Sour+recipe&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.drinksmixer.com%2Fdrink824.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.food.com/recipe/amaretto-stone-sour-16677">"Amaretto Stone Sour Recipe - Food.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 3,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.btitle=Amaretto+Stone+Sour+Recipe+-+Food.com&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.food.com%2Frecipe%2Famaretto-stone-sour-16677&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dekuyperusa.com/recipe/amaretto-stone-stour?country=US&amp;dob_month=01&amp;dob_day=01&amp;dob_year=1971">"Amaretto Stone Sour Drink Recipe | DeKuyperUSA"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 3,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmaretto&amp;rft.btitle=Amaretto+Stone+Sour+Drink+Recipe+%7C+DeKuyperUSA&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dekuyperusa.com%2Frecipe%2Famaretto-stone-stour%3Fcountry%3DUS%26dob_month%3D01%26dob_day%3D01%26dob_year%3D1971&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amaretto&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Amaretto_liqueurs" class="extiw" title="commons:Category:Amaretto liqueurs">Amaretto liqueurs</a> at Wikimedia Commons</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Alcoholic_drinks" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Alcoholic_beverages" title="Template:Alcoholic beverages"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Alcoholic_beverages" title="Template talk:Alcoholic beverages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Alcoholic_beverages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Alcoholic_drinks" style="font-size:114%"><a href="/wiki/Alcoholic_drink" title="Alcoholic drink">Alcoholic drinks</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="History_and_production" style="font-size:114%">History and production</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">History of alcohol</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_alcoholic_beverages" class="mw-redirect" title="History of alcoholic beverages">History of alcoholic beverages</a></li>
+<li><a href="/wiki/History_of_beer" title="History of beer">History of beer</a></li>
+<li><a href="/wiki/History_of_wine" title="History of wine">History of wine</a>
+<ul>
+<li><a href="/wiki/History_of_Bordeaux_wine" title="History of Bordeaux wine">History of Bordeaux wine</a></li>
+<li><a href="/wiki/History_of_Champagne" title="History of Champagne">History of Champagne</a></li>
+<li><a href="/wiki/History_of_Chianti" title="History of Chianti">History of Chianti</a></li>
+<li><a href="/wiki/History_of_French_wine" title="History of French wine">History of French wine</a></li>
+<li><a href="/wiki/History_of_Portuguese_wine" title="History of Portuguese wine">History of Portuguese wine</a></li>
+<li><a href="/wiki/History_of_Rioja_wine" title="History of Rioja wine">History of Rioja wine</a></li>
+<li><a href="/wiki/History_of_Sherry" title="History of Sherry">History of Sherry</a></li>
+<li><a href="/wiki/History_of_South_African_wine" title="History of South African wine">History of South African wine</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:16th_century_brewer_80px.png" class="image"><img alt="16th century brewer 80px.png" src="//upload.wikimedia.org/wikipedia/commons/6/6c/16th_century_brewer_80px.png" width="80" height="102" data-file-width="80" data-file-height="102" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Production</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alcohol_industry" title="Alcohol industry">Alcohol industry</a></li>
+<li><a href="/wiki/Brewing" title="Brewing">Brewing</a></li>
+<li><a href="/wiki/Distillation" title="Distillation">Distillation</a></li>
+<li><a href="/wiki/Drinking_establishment" title="Drinking establishment">Drinking establishments</a></li>
+<li><a href="/wiki/Ethanol_fermentation" title="Ethanol fermentation">Fermentation</a></li>
+<li><a href="/wiki/Winemaking" title="Winemaking">Winemaking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Alcoholic_beverages" style="font-size:114%">Alcoholic beverages</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Fermentation_in_food_processing" title="Fermentation in food processing">Fermented</a> beverage</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beer" title="Beer">Beer</a></li>
+<li><a href="/wiki/Cider" title="Cider">Cider</a></li>
+<li><a href="/wiki/Mead" title="Mead">Mead</a></li>
+<li><a href="/wiki/Rice_wine" title="Rice wine">Rice wine</a></li>
+<li><a href="/wiki/Sake" title="Sake">Sake</a></li>
+<li><a href="/wiki/Wine" title="Wine">Wine</a></li>
+<li><a href="/wiki/Category:Fermented_drinks" title="Category:Fermented drinks">Other fermented beverages</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Alcoholic_beverages.jpg" class="image"><img alt="Alcoholic beverages.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Alcoholic_beverages.jpg/100px-Alcoholic_beverages.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Alcoholic_beverages.jpg/150px-Alcoholic_beverages.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Alcoholic_beverages.jpg/200px-Alcoholic_beverages.jpg 2x" data-file-width="800" data-file-height="600" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Distilled_beverage" title="Distilled beverage">Distilled beverage</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brandy" title="Brandy">Brandy</a></li>
+<li><a href="/wiki/Gin" title="Gin">Gin</a></li>
+<li><a href="/wiki/Liqueur" title="Liqueur">Liqueur</a></li>
+<li><a href="/wiki/Rum" title="Rum">Rum</a></li>
+<li><a href="/wiki/Tequila" title="Tequila">Tequila</a></li>
+<li><a href="/wiki/Vodka" title="Vodka">Vodka</a></li>
+<li><a href="/wiki/Whisky" title="Whisky">Whisky</a></li>
+<li><a href="/wiki/Category:Distilled_drinks" title="Category:Distilled drinks">Other distilled beverages</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Fortified_wine" title="Fortified wine">Fortified wine</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Madeira_wine" title="Madeira wine">Madeira wine</a></li>
+<li><a href="/wiki/Marsala_wine" title="Marsala wine">Marsala wine</a></li>
+<li><a href="/wiki/Port_wine" title="Port wine">Port wine</a></li>
+<li><a href="/wiki/Sherry" title="Sherry">Sherry</a></li>
+<li><a href="/wiki/Vermouth" title="Vermouth">Vermouth</a></li>
+<li><a href="/wiki/Category:Fortified_wine" title="Category:Fortified wine">Other fortified wines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Distilled_beverages_by_ingredients" style="font-size:114%"><a href="/wiki/Distilled_beverage" title="Distilled beverage">Distilled beverages</a> by ingredients</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Fruit" title="Fruit">Fruit</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Apple</dt>
+<dd><a href="/wiki/Applejack_(beverage)" title="Applejack (beverage)">Applejack</a></dd>
+<dd><a href="/wiki/Calvados" title="Calvados">Calvados</a></dd>
+<dt>Cashew apple</dt>
+<dd><a href="/wiki/Feni_(liquor)" title="Feni (liquor)">Feni</a></dd>
+<dt>Coconut</dt>
+<dd><a href="/wiki/Arrack" title="Arrack">Arrack</a></dd>
+<dt>Grape</dt>
+<dd><a href="/wiki/Armagnac_(brandy)" title="Armagnac (brandy)">Armagnac</a></dd>
+<dd><a href="/wiki/Brandy" title="Brandy">Brandy</a></dd>
+<dd><a href="/wiki/Cognac" title="Cognac">Cognac</a></dd>
+<dd><a href="/wiki/Pisco" title="Pisco">Pisco</a></dd>
+<dt>Plum</dt>
+<dd><a href="/wiki/Slivovitz" title="Slivovitz">Slivovitz</a></dd>
+<dd><a href="/wiki/%C8%9Auic%C4%83" title="Țuică">Țuică</a></dd>
+<dt><a href="/wiki/Pomace" title="Pomace">Pomace</a></dt>
+<dd><a href="/wiki/Chacha_(brandy)" title="Chacha (brandy)">Chacha</a></dd>
+<dd><a href="/wiki/Grappa" title="Grappa">Grappa</a></dd>
+<dd><a href="/wiki/Pomace_brandy" title="Pomace brandy">Marc</a></dd>
+<dd><a href="/wiki/Orujo" title="Orujo">Orujo</a></dd>
+<dd><a href="/wiki/Tsikoudia" title="Tsikoudia">Tsikoudia</a></dd>
+<dd><a href="/wiki/Tsipouro" title="Tsipouro">Tsipouro</a></dd>
+<dd><a href="/wiki/Zivania" title="Zivania">Zivania</a></dd>
+<dt>Various fruits</dt>
+<dd><a href="/wiki/Eau_de_vie" title="Eau de vie">Eau de vie</a></dd>
+<dd><a href="/wiki/Himbeergeist" title="Himbeergeist">Himbeergeist</a></dd>
+<dd><a href="/wiki/Kirsch" title="Kirsch">Kirschwasser</a></dd>
+<dd><a href="/wiki/Marillenschnaps" title="Marillenschnaps">Marillenschnaps</a></dd>
+<dd><a href="/wiki/Nalewka" title="Nalewka">Nalewka</a></dd>
+<dd><a href="/wiki/P%C3%A1linka" title="Pálinka">Pálinka</a></dd>
+<dd><a href="/wiki/Rakia" title="Rakia">Rakia</a></dd>
+<dd><a href="/wiki/Schnapps#German" title="Schnapps">Schnaps</a></dd>
+</dl>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Alambic.svg" class="image"><img alt="Alambic.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alambic.svg/50px-Alambic.svg.png" width="50" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alambic.svg/75px-Alambic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alambic.svg/100px-Alambic.svg.png 2x" data-file-width="402" data-file-height="590" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Food_grain" class="mw-redirect" title="Food grain">Grain</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Barley</dt>
+<dd><a href="/wiki/Irish_whiskey" title="Irish whiskey">Irish whiskey</a></dd>
+<dd><a href="/wiki/Japanese_whisky" title="Japanese whisky">Japanese whisky</a></dd>
+<dd><a href="/wiki/Scotch_whisky" title="Scotch whisky">Scotch whisky</a></dd>
+<dt>Maize</dt>
+<dd><a href="/wiki/Bourbon_whiskey" title="Bourbon whiskey">Bourbon whiskey</a></dd>
+<dd><a href="/wiki/Corn_whiskey" title="Corn whiskey">Corn whiskey</a></dd>
+<dd><a href="/wiki/Tennessee_whiskey" title="Tennessee whiskey">Tennessee whiskey</a></dd>
+<dt>Rice</dt>
+<dd><a href="/wiki/Awamori" title="Awamori">Awamori</a></dd>
+<dd><a href="/wiki/Cheongju_(wine)" title="Cheongju (wine)">Cheongju</a></dd>
+<dd><a href="/wiki/Rice_baijiu" title="Rice baijiu">Rice baijiu</a></dd>
+<dd><a href="/wiki/Sh%C5%8Dch%C5%AB" title="Shōchū">Shōchū</a></dd>
+<dd><a href="/wiki/Soju" title="Soju">Soju</a></dd>
+<dt>Rye</dt>
+<dd><a href="/wiki/Korn_(liquor)" title="Korn (liquor)">Korn</a></dd>
+<dd><a href="/wiki/Rye_whiskey" title="Rye whiskey">Rye whiskey</a></dd>
+<dd><a href="/wiki/Starka" title="Starka">Starka</a></dd>
+<dt>Sorghum</dt>
+<dd><a href="/wiki/Baijiu" title="Baijiu">Baijiu</a> (<a href="/wiki/Kaoliang" title="Kaoliang">Kaoliang</a>)</dd>
+<dt>Multiple grains</dt>
+<dd><a href="/wiki/American_whiskey" title="American whiskey">American whiskey</a></dd>
+<dd><a href="/wiki/Canadian_whisky" title="Canadian whisky">Canadian whisky</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><a href="/wiki/Agave" title="Agave">Agave</a></dt>
+<dd><a href="/wiki/Mezcal" title="Mezcal">Mezcal</a></dd>
+<dd><a href="/wiki/Tequila" title="Tequila">Tequila</a></dd>
+<dt>Buckwheat</dt>
+<dd><a href="/wiki/Buckwheat_whisky" title="Buckwheat whisky">Buckwheat whisky</a></dd>
+<dd><a href="/wiki/Sh%C5%8Dch%C5%AB" title="Shōchū">Shōchū</a></dd>
+<dt>Sugarcane or molasses</dt>
+<dd><a href="/wiki/Aguardiente" title="Aguardiente">Aguardiente</a></dd>
+<dd><a href="/wiki/Cacha%C3%A7a" title="Cachaça">Cachaça</a></dd>
+<dd><a href="/wiki/Clairin" title="Clairin">Clairin</a></dd>
+<dd><a href="/wiki/Guaro_(drink)" title="Guaro (drink)">Guaro</a></dd>
+<dd><a href="/wiki/Rum" title="Rum">Rum</a></dd>
+<dd><a href="/wiki/Seco_Herrerano" title="Seco Herrerano">Seco Herrerano</a></dd>
+<dd><a href="/wiki/Tharra" title="Tharra">Tharra</a></dd>
+<dt>Various starches</dt>
+<dd><a href="/wiki/Akvavit" title="Akvavit">Akvavit</a></dd>
+<dd><a href="/wiki/Horilka" title="Horilka">Horilka</a></dd>
+<dd><a href="/wiki/Poit%C3%ADn" title="Poitín">Poitín</a></dd>
+<dd><a href="/wiki/Sh%C5%8Dch%C5%AB" title="Shōchū">Shōchū</a></dd>
+<dd><a href="/wiki/Vodka" title="Vodka">Vodka</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Liqueurs_and_infused_distilled_beverages_by_ingredients" style="font-size:114%"><a href="/wiki/Liqueur" title="Liqueur">Liqueurs</a> and infused distilled beverages by ingredients</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Almond</dt>
+<dd><strong class="selflink">Amaretto</strong></dd>
+<dd><a href="/wiki/Cr%C3%A8me_de_Noyaux" title="Crème de Noyaux">Crème de Noyaux</a></dd>
+<dt>Anise</dt>
+<dd><a href="/wiki/Absinthe" title="Absinthe">Absinthe</a></dd>
+<dd><a href="/wiki/Arak_(drink)" title="Arak (drink)">Arak</a></dd>
+<dd><a href="/wiki/Hierbas" title="Hierbas">Hierbas</a>
+<dl>
+<dd><a href="/wiki/Herbs_de_Majorca" title="Herbs de Majorca">Herbs de Majorca</a></dd>
+</dl>
+</dd>
+<dd><a href="/wiki/Ouzo" title="Ouzo">Ouzo</a></dd>
+<dd><a href="/wiki/Pastis" title="Pastis">Pastis</a></dd>
+<dd><a href="/wiki/Rak%C4%B1" title="Rakı">Rakı</a></dd>
+<dd><a href="/wiki/Sambuca" title="Sambuca">Sambuca</a></dd>
+<dt>Blackthorn shrub</dt>
+<dd><a href="/wiki/Patxaran" title="Patxaran">Patxaran</a></dd>
+<dt>Chocolate</dt>
+<dd><a href="/wiki/Chocolate_liqueur" title="Chocolate liqueur">Chocolate liqueur</a></dd>
+<dt>Cinnamon</dt>
+<dd><a href="/wiki/Tentura" title="Tentura">Tentura</a></dd>
+<dt><a href="/wiki/Rubus_chamaemorus" title="Rubus chamaemorus">Cloudberry</a></dt>
+<dd><a href="/wiki/Lakka" title="Lakka">Lakka</a></dd>
+<dt>Coconut</dt>
+<dd><a href="/wiki/Malibu_Rum" class="mw-redirect" title="Malibu Rum">Malibu</a></dd>
+<dt>Coffee</dt>
+<dd><a href="/wiki/Kahl%C3%BAa" title="Kahlúa">Kahlúa</a></dd>
+<dd><a href="/wiki/Tia_Maria" title="Tia Maria">Tia Maria</a></dd>
+<dt>Egg</dt>
+<dd><a href="/wiki/Advocaat" title="Advocaat">Advocaat</a></dd>
+<dt>Hazelnut</dt>
+<dd><a href="/wiki/Frangelico" title="Frangelico">Frangelico</a></dd>
+<dt>Herbs</dt>
+<dd><a href="/wiki/Akvavit" title="Akvavit">Aquavit</a></dd>
+<dd><a href="/wiki/B%C3%A9n%C3%A9dictine" title="Bénédictine">Bénédictine</a></dd>
+<dd><a href="/wiki/Brenniv%C3%ADn" title="Brennivín">Brennivín</a></dd>
+<dd><a href="/wiki/Cr%C3%A8me_de_menthe" title="Crème de menthe">Crème de menthe</a></dd>
+<dd><a href="/wiki/Metaxa" title="Metaxa">Metaxa</a></dd>
+<dt>Honey</dt>
+<dd><a href="/wiki/B%C3%A4renfang" title="Bärenfang">Bärenjäger</a></dd>
+<dd><a href="/wiki/Drambuie" title="Drambuie">Drambuie</a></dd>
+<dd><a href="/wiki/Glayva" title="Glayva">Glayva</a></dd>
+<dd><a href="/wiki/Krupnik" title="Krupnik">Krupnik</a></dd>
+<dt>Juniper</dt>
+<dd><a href="/wiki/Gin" title="Gin">Gin</a></dd>
+<dd><a href="/wiki/Jenever" title="Jenever">Jenever</a></dd>
+<dt>Orange</dt>
+<dd><a href="/wiki/Campari" title="Campari">Campari</a></dd>
+<dd><a href="/wiki/Cura%C3%A7ao_(liqueur)" title="Curaçao (liqueur)">Curaçao</a></dd>
+<dd><a href="/wiki/Triple_sec" title="Triple sec">Triple sec</a></dd>
+<dt>Peppers</dt>
+<dd><a href="/wiki/Horilka" title="Horilka">Pertsivka</a></dd>
+<dt>Star anise</dt>
+<dd><a href="/wiki/Sassolino" title="Sassolino">Sassolino</a></dd>
+<dt>Sugarcane/molasses</dt>
+<dd><a href="/wiki/Charanda" title="Charanda">Charanda</a></dd>
+<dt>Various fruits</dt>
+<dd><a href="/wiki/Cr%C3%A8me_de_banane" title="Crème de banane">Crème de banane</a></dd>
+<dd><a href="/wiki/Cr%C3%A8me_de_cassis" title="Crème de cassis">Crème de cassis</a></dd>
+<dd><a href="/wiki/Limoncello" title="Limoncello">Limoncello</a></dd>
+<dd><a href="/wiki/Schnapps" title="Schnapps">Schnapps</a></dd>
+<dd><a href="/wiki/Sloe_gin" title="Sloe gin">Sloe gin</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight: bold;">
+<div>
+<dl>
+<dd><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Alcoholic_beverages" title="Category:Alcoholic beverages">Category</a></dd>
+<dt><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> Portals</dt>
+<dd><a href="/wiki/Portal:Liquor" title="Portal:Liquor">Liquor</a></dd>
+<dd><a href="/wiki/Portal:Beer" title="Portal:Beer">Beer</a></dd>
+<dd><a href="/wiki/Portal:Drink" title="Portal:Drink">Drink</a></dd>
+<dd><a href="/wiki/Portal:Wine" title="Portal:Wine">Wine</a></dd>
+<dt><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> WikiProjects</dt>
+<dd><a href="/wiki/Wikipedia:WikiProject_Beer" title="Wikipedia:WikiProject Beer">Beer</a></dd>
+<dd><a href="/wiki/Wikipedia:WikiProject_Spirits" title="Wikipedia:WikiProject Spirits">Spirits</a></dd>
+<dd><a href="/wiki/Wikipedia:WikiProject_Wine" title="Wikipedia:WikiProject Wine">Wine</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:538184-0!*!0!!en!4!* and timestamp 20161116031726 and revision id 749380415
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Amaretto&amp;oldid=749380415">https://en.wikipedia.org/w/index.php?title=Amaretto&amp;oldid=749380415</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Amaretto_liqueurs" title="Category:Amaretto liqueurs">Amaretto liqueurs</a></li><li><a href="/wiki/Category:Almond_dishes" title="Category:Almond dishes">Almond dishes</a></li><li><a href="/wiki/Category:Fruit_liqueurs" title="Category:Fruit liqueurs">Fruit liqueurs</a></li><li><a href="/wiki/Category:Italian_liqueurs" title="Category:Italian liqueurs">Italian liqueurs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_October_2016" title="Category:Use mdy dates from October 2016">Use mdy dates from October 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Amaretto" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Amaretto" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Amaretto"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Amaretto"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Amaretto" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Amaretto&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Amaretto&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Amaretto" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Amaretto" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Amaretto&amp;oldid=749380415" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Amaretto&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q455045" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Amaretto&amp;id=749380415" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Amaretto">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Amaretto&amp;returnto=Amaretto&amp;oldid=749380415&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Amaretto&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Amaretto_liqueurs" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D1%80%D1%8D%D1%82%D0%B0" title="Амарэта – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D1%80%D0%B5%D1%82%D0%BE" title="Амарето – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Amaretto" title="Amaretto – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Amaretto" title="Amaretto – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Amaretto" title="Amaretto – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Amaretto" title="Amaretto – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Amaretto" title="Amaretto – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Amaretto" title="Amaretto – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Amaretto" title="Amaretto – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EB%A0%88%ED%86%A0" title="아마레토 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Liquore_amaretto" title="Liquore amaretto – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%A8%D7%98%D7%95" title="אמרטו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D1%80%D0%B5%D1%82%D1%82%D0%BE" title="Амаретто – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Amaretto" title="Amaretto – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Amaretas" title="Amaretas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Amaretto" title="Amaretto – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%AC%E3%83%83%E3%83%88" title="アマレット – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Amaretto" title="Amaretto – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Amaretto" title="Amaretto – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D1%80%D0%B5%D1%82%D1%82%D0%BE" title="Амаретто – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Amaretto" title="Amaretto – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Amaretto" title="Amaretto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Amaretto" title="Amaretto – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Amaretto" title="Amaretto – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D1%80%D0%B5%D1%82%D0%BE" title="Амарето – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Amaretto" title="Amaretto – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E7%8E%9B%E9%9B%B7%E6%89%98" title="阿玛雷托 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q455045#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 November 2016, at 01:23.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Amaretto&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.308",
+            "walltime": "0.385",
+            "ppvisitednodes": {
+                "value": 2252,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 89457,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 10539,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  312.827      1 -total",
+                " 32.71%  102.318      7 Template:Citation_needed",
+                " 30.39%   95.076      7 Template:Fix",
+                " 25.25%   78.998      1 Template:Reflist",
+                " 18.11%   56.666      7 Template:Delink",
+                " 17.72%   55.435     10 Template:Cite_web",
+                " 15.99%   50.006      1 Template:Alcoholic_beverages",
+                " 15.29%   47.829      1 Template:Navbox_with_collapsible_groups",
+                " 10.61%   33.186     14 Template:Category_handler",
+                "  6.83%   21.373      1 Template:Use_mdy_dates"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.146",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5213706,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1183",
+            "timestamp": "20161116031727",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":463,"wgHostname":"mw1183"});});</script>
+	</body>
+</html>

@@ -1,0 +1,52 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Mai Tai</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Mai_Tai.jpg" class="image"><img alt="Mai Tai.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mai_Tai.jpg/220px-Mai_Tai.jpg" width="220" height="333" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mai_Tai.jpg/330px-Mai_Tai.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mai_Tai.jpg/440px-Mai_Tai.jpg 2x" data-file-width="529" data-file-height="800" /></a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Rum" title="Rum">Rum</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Pineapple" title="Pineapple">pineapple</a> spear, mint leaves and <a href="/wiki/Lime_(fruit)" title="Lime (fruit)">lime</a> peel</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Highball_Glass_(Tumbler).svg" class="image"><img alt="Highball Glass (Tumbler).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/43px-Highball_Glass_%28Tumbler%29.svg.png" width="43" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/65px-Highball_Glass_%28Tumbler%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Highball_Glass_%28Tumbler%29.svg/86px-Highball_Glass_%28Tumbler%29.svg.png 2x" data-file-width="192" data-file-height="356" /></a></div>
+<a href="/wiki/Highball_glass" title="Highball glass">Highball glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>4 cl <a href="/wiki/White_rum" class="mw-redirect" title="White rum">white rum</a></li>
+<li>2 cl <a href="/wiki/Rum" title="Rum">dark rum</a></li>
+<li>1.5 cl orange <a href="/wiki/Cura%C3%A7ao_(liqueur)" title="Curaçao (liqueur)">curaçao</a></li>
+<li>1.5 cl <a href="/wiki/Orgeat_syrup" title="Orgeat syrup">Orgeat syrup</a></li>
+<li>1 cl fresh <a href="/wiki/Lime_juice" class="mw-redirect" title="Lime juice">lime juice</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.</td>
+</tr>
+

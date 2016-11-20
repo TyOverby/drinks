@@ -1,0 +1,58 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Negroni (cocktail)</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Negroni_served_in_Vancouver_BC.jpg" class="image"><img alt="Negroni served in Vancouver BC.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Negroni_served_in_Vancouver_BC.jpg/220px-Negroni_served_in_Vancouver_BC.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Negroni_served_in_Vancouver_BC.jpg/330px-Negroni_served_in_Vancouver_BC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Negroni_served_in_Vancouver_BC.jpg/440px-Negroni_served_in_Vancouver_BC.jpg 2x" data-file-width="3456" data-file-height="2304" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">A Negroni</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Gin" title="Gin">Gin</a></li>
+<li><a href="/wiki/Vermouth" title="Vermouth">Vermouth</a></li>
+<li><a href="/wiki/Campari" title="Campari">Campari</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Orange_(fruit)" title="Orange (fruit)">Orange</a> slice</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Old_Fashioned_Glass.svg" class="image"><img alt="Old Fashioned Glass.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/50px-Old_Fashioned_Glass.svg.png" width="50" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/75px-Old_Fashioned_Glass.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/100px-Old_Fashioned_Glass.svg.png 2x" data-file-width="243" data-file-height="305" /></a></div>
+<a href="/wiki/Old_Fashioned_glass" title="Old Fashioned glass">Old Fashioned glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>3 cl <a href="/wiki/Gin" title="Gin">gin</a></li>
+<li>3 cl sweet red <a href="/wiki/Vermouth" title="Vermouth">vermouth</a></li>
+<li>3 cl <a href="/wiki/Campari" title="Campari">campari</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Stir into glass over ice, garnish and serve.</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 80%">* <a rel="nofollow" class="external text" href="http://www.iba-world.com/english/cocktails/negr.php">Negroni (cocktail) recipe</a> at <a href="/wiki/International_Bartenders_Association" title="International Bartenders Association">International Bartenders Association</a></td>
+</tr>
+

@@ -1,0 +1,58 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Old Fashioned</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:The_Young_Laddie_Cocktail.jpg" class="image"><img alt="The Young Laddie Cocktail.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Young_Laddie_Cocktail.jpg/220px-The_Young_Laddie_Cocktail.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Young_Laddie_Cocktail.jpg/330px-The_Young_Laddie_Cocktail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Young_Laddie_Cocktail.jpg/440px-The_Young_Laddie_Cocktail.jpg 2x" data-file-width="5184" data-file-height="3456" /></a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Whisky" title="Whisky">Whiskey</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Orange_(fruit)" title="Orange (fruit)">Orange</a> twist</li>
+<li>cocktail <a href="/wiki/Cherry" title="Cherry">cherry</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Old_Fashioned_Glass.svg" class="image"><img alt="Old Fashioned Glass.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/50px-Old_Fashioned_Glass.svg.png" width="50" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/75px-Old_Fashioned_Glass.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/100px-Old_Fashioned_Glass.svg.png 2x" data-file-width="243" data-file-height="305" /></a></div>
+<a href="/wiki/Old_Fashioned_glass" title="Old Fashioned glass">Old Fashioned glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>4.5 cL <a href="/wiki/Bourbon_whiskey" title="Bourbon whiskey">Bourbon</a> or <a href="/wiki/Rye_whiskey" title="Rye whiskey">Rye whiskey</a></li>
+<li>2 dashes <a href="/wiki/Angostura_bitters" title="Angostura bitters">Angostura bitters</a></li>
+<li>1 <a href="/wiki/Sugar" title="Sugar">sugar</a> cube</li>
+<li>Few dashes plain <a href="/wiki/Water" title="Water">water</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water.
+<p>Muddle until dissolved.<br />
+Fill the glass with ice cubes and add whiskey.<br />
+Garnish with orange twist, and a cocktail cherry.</p>
+</td>
+</tr>
+

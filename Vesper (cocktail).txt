@@ -1,0 +1,56 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Vesper</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Vesper_Martini_(corrected).jpg" class="image"><img alt="Vesper Martini (corrected).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vesper_Martini_%28corrected%29.jpg/220px-Vesper_Martini_%28corrected%29.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vesper_Martini_%28corrected%29.jpg/330px-Vesper_Martini_%28corrected%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vesper_Martini_%28corrected%29.jpg/440px-Vesper_Martini_%28corrected%29.jpg 2x" data-file-width="1536" data-file-height="2048" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center"><b>Vesper Martini</b></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Gin" title="Gin">Gin</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i><a href="/wiki/Straight_up_(bartending)" class="mw-redirect" title="Straight up (bartending)">Straight up</a></i>; without ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p><a href="/wiki/Lemon" title="Lemon">lemon</a> peel</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Glass02.jpg" class="image"><img alt="Glass02.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Glass02.jpg/50px-Glass02.jpg" width="50" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Glass02.jpg/75px-Glass02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Glass02.jpg/100px-Glass02.jpg 2x" data-file-width="1141" data-file-height="1600" /></a></div>
+<a href="/wiki/Champagne_coupe" class="mw-redirect" title="Champagne coupe">Champagne coupe</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>6cl gin</li>
+<li>1.5cl vodka</li>
+<li>0.75cl Lillet Blanc</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 80%"><a href="/wiki/Cocktail_glass" title="Cocktail glass">Cocktail glasses</a> are commonly used instead of Champagne goblets in modern versions of this drink.</td>
+</tr>
+

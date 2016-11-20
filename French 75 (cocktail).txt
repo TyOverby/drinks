@@ -1,0 +1,41 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">French 75</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:French_75.jpg" class="image"><img alt="French 75.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/220px-French_75.jpg" width="220" height="330" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/330px-French_75.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/440px-French_75.jpg 2x" data-file-width="3456" data-file-height="5184" /></a></td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/Wine_cocktail" title="Wine cocktail">Wine cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Champagne_(wine)" class="mw-redirect" title="Champagne (wine)">Champagne</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Flute_Glass.svg" class="image"><img alt="Flute Glass.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flute_Glass.svg/30px-Flute_Glass.svg.png" width="30" height="106" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flute_Glass.svg/45px-Flute_Glass.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flute_Glass.svg/60px-Flute_Glass.svg.png 2x" data-file-width="142" data-file-height="504" /></a></div>
+<a href="/wiki/Champagne_flute" class="mw-redirect" title="Champagne flute">Champagne flute</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>3cl Cognac or gin</li>
+<li>2 dashes <a href="/wiki/Simple_syrup" class="mw-redirect" title="Simple syrup">simple syrup</a></li>
+<li>1.5cl lemon juice</li>
+<li>6cl Champagne</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Combine Cognac, syrup, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.</td>
+</tr>
+

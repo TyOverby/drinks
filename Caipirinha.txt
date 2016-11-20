@@ -1,0 +1,57 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Caipirinha</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:15-09-26-RalfR-WLC-0048.jpg" class="image"><img alt="15-09-26-RalfR-WLC-0048.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/15-09-26-RalfR-WLC-0048.jpg/220px-15-09-26-RalfR-WLC-0048.jpg" width="220" height="271" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/15-09-26-RalfR-WLC-0048.jpg/330px-15-09-26-RalfR-WLC-0048.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/15-09-26-RalfR-WLC-0048.jpg/440px-15-09-26-RalfR-WLC-0048.jpg 2x" data-file-width="2316" data-file-height="2851" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">Studio photo of a caipirinha</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/List_of_cocktails" title="List of cocktails">Cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Cacha%C3%A7a" title="Cachaça">Cachaça</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i>On the rocks</i>; poured over ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard garnish</th>
+<td class="ingredient" style="background-color: cornsilk">
+<p>sugar cane, lime(ingredient)</p>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Old_Fashioned_Glass.svg" class="image"><img alt="Old Fashioned Glass.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/50px-Old_Fashioned_Glass.svg.png" width="50" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/75px-Old_Fashioned_Glass.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Old_Fashioned_Glass.svg/100px-Old_Fashioned_Glass.svg.png 2x" data-file-width="243" data-file-height="305" /></a></div>
+<a href="/wiki/Old_Fashioned_glass" title="Old Fashioned glass">Old Fashioned glass</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>5 cl <a href="/wiki/Cacha%C3%A7a" title="Cachaça">cachaça</a></li>
+<li>Half a <a href="/wiki/Lime_(fruit)" title="Lime (fruit)">lime</a> cut into 4 wedges</li>
+<li>2 teaspoons <a href="/wiki/Sugar" title="Sugar">sugar</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a <a href="/wiki/Muddler" title="Muddler">muddler</a> or a wooden spoon). Fill the glass with crushed ice and add the Cachaça.</td>
+</tr>
+<tr>
+<th>Notes</th>
+<td>A wide variety of fresh fruits can be used in place of lime. In the absence of cachaça, vodka can be used, making a <a href="/wiki/Caipiroska" title="Caipiroska">caipiroska</a>.<sup id="cite_ref-Brazilian_Drinks:_Caipirnha_1-0" class="reference"><a href="#cite_note-Brazilian_Drinks:_Caipirnha-1">[1]</a></sup></td>
+</tr>
+

@@ -1,0 +1,29 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Sours</caption>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:A_whiskey_sour_in_the_hand.jpg" class="image"><img alt="A whiskey sour in the hand.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/A_whiskey_sour_in_the_hand.jpg/220px-A_whiskey_sour_in_the_hand.jpg" width="220" height="321" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/A_whiskey_sour_in_the_hand.jpg/330px-A_whiskey_sour_in_the_hand.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/A_whiskey_sour_in_the_hand.jpg/440px-A_whiskey_sour_in_the_hand.jpg 2x" data-file-width="612" data-file-height="894" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">A typical whiskey sour in a non-standard glass.</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/Cocktail" title="Cocktail">Cocktail family</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Alcohol common in this class of cocktail</th>
+<td style="background-color: cornsilk">
+<ul>
+<li><a href="/wiki/Gin" title="Gin">Gin</a></li>
+<li><a href="/wiki/Bourbon_whiskey" title="Bourbon whiskey">Bourbon whiskey</a></li>
+<li><a href="/wiki/Brandy" title="Brandy">Brandy</a></li>
+<li><a href="/wiki/Pisco" title="Pisco">Pisco</a></li>
+<li><a href="/wiki/Rum" title="Rum">Rum</a></li>
+<li><a href="/wiki/Amaretto" title="Amaretto">Amaretto</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Notes</th>
+<td>See the article for specifics.</td>
+</tr>
+

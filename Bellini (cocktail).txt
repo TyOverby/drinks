@@ -1,0 +1,50 @@
+<caption class="fn" style="font-size: 125%; font-weight: bold">Bellini</caption>
+<tr>
+<th colspan="2" style="background-color: gold; text-align: center"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA Official Cocktail</a></th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: none; text-align: center"><a href="/wiki/File:Bellini_Cipriani,_Macaroni_Grill,_Dunwoody_GA.jpg" class="image"><img alt="Bellini Cipriani, Macaroni Grill, Dunwoody GA.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg/220px-Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg/330px-Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg/440px-Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg 2x" data-file-width="2106" data-file-height="2808" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-top: none; padding-bottom: 1em; text-align: center">Bellini Cipriani</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><b><a href="/wiki/Wine_cocktail" title="Wine cocktail">Wine cocktail</a></b></td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Primary alcohol by volume</th>
+<td style="background-color: cornsilk">
+<ul>
+<li>Prosecco</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Served</th>
+<td style="background-color: cornsilk"><i><a href="/wiki/Straight_up_(bartending)" class="mw-redirect" title="Straight up (bartending)">Straight up</a></i>; without ice</td>
+</tr>
+<tr>
+<th style="background-color: cornsilk">Standard drinkware</th>
+<td style="background-color: cornsilk">
+<div class="floatright"><a href="/wiki/File:Flute_Glass.svg" class="image"><img alt="Flute Glass.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flute_Glass.svg/30px-Flute_Glass.svg.png" width="30" height="106" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flute_Glass.svg/45px-Flute_Glass.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flute_Glass.svg/60px-Flute_Glass.svg.png 2x" data-file-width="142" data-file-height="504" /></a></div>
+<a href="/wiki/Champagne_flute" class="mw-redirect" title="Champagne flute">Champagne flute</a></td>
+</tr>
+<tr>
+<th style="background-color: moccasin"><a href="/wiki/IBA_Official_Cocktail" class="mw-redirect" title="IBA Official Cocktail">IBA</a> specified ingredients*</th>
+<td class="ingredient" style="background-color: moccasin">
+<ul>
+<li>10 cl (2 parts) <a href="/wiki/Prosecco" title="Prosecco">Prosecco</a></li>
+<li>5 cl (1 part) fresh <a href="/wiki/Peach" title="Peach">peach</a> <a href="/wiki/Pur%C3%A9e" title="Purée">purée</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="background-color: moccasin">Preparation</th>
+<td style="background-color: moccasin">Pour peach purée into chilled flute, add sparkling wine. Stir gently.</td>
+</tr>
+<tr>
+<th>Notes</th>
+<td>Traditionally a Bellini uses white peaches for the fruit.</td>
+</tr>
+
