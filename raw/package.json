@@ -15,5 +15,9 @@
     "url": "https://github.com/TyOverby/drinks/issues"
   },
   "homepage": "https://github.com/TyOverby/drinks#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "jsdom": "^9.8.3",
+    "mock-browser": "^0.92.12"
+  }
 }
