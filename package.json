@@ -1,0 +1,19 @@
+{
+  "name": "drinks",
+  "version": "1.0.0",
+  "main": "extract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyOverby/drinks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TyOverby/drinks/issues"
+  },
+  "homepage": "https://github.com/TyOverby/drinks#readme",
+  "description": ""
+}
