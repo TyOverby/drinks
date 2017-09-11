@@ -26,6 +26,10 @@ function prepareText(text: string, searches: string[]): JSX.Element {
 // State is never set so we use the 'undefined' type.
 export class Recipe extends React.Component<RecipeJson & ApplicationProps> {
     render() {
+        const garnishText = this.props.standard_garnish !== undefined ?
+            [<h2>Garnish</h2>, prepareText(this.props.standard_garnish, this.props.ingredientSearch)] :
+            [];
+
         return <div className="recipe">
             <h1> {prepareText(this.props.name, [this.props.nameSearch])} </h1>
 
@@ -35,8 +39,7 @@ export class Recipe extends React.Component<RecipeJson & ApplicationProps> {
             <h2> Preparation </h2>
             {this.props.preparation}
 
-            <h2> Garnish </h2>
-            {this.props.standard_garnish}
+            {garnishText}
 
             <h2> Drinkware </h2>
             {this.props.standard_drinkware}

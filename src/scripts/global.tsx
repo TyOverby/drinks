@@ -25,7 +25,13 @@ export function get_rerenderer(recipies: model.RecipeJson[]): (app: ApplicationP
             if (appprops.ingredientSearch.length === 0 ) { return true; }
 
             for (const singr of appprops.ingredientSearch) {
-                const contained = r.ingredients.some(i => i.toLowerCase().indexOf(singr) != -1);
+
+                let searching = r.ingredients;
+                if (r.standard_garnish) {
+                    searching = searching.concat([r.standard_garnish]);
+                }
+
+                const contained = searching.some(i => i.toLowerCase().indexOf(singr) != -1);
                 if (!contained) { return false; }
             }
 

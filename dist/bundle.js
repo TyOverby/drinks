@@ -102,6 +102,9 @@ function prepareText(text, searches) {
 // State is never set so we use the 'undefined' type.
 class Recipe extends React.Component {
     render() {
+        const garnishText = this.props.standard_garnish !== undefined ?
+            [React.createElement("h2", null, "Garnish"), prepareText(this.props.standard_garnish, this.props.ingredientSearch)] :
+            [];
         return React.createElement("div", { className: "recipe" },
             React.createElement("h1", null,
                 " ",
@@ -114,8 +117,7 @@ class Recipe extends React.Component {
                 " "))),
             React.createElement("h2", null, " Preparation "),
             this.props.preparation,
-            React.createElement("h2", null, " Garnish "),
-            this.props.standard_garnish,
+            garnishText,
             React.createElement("h2", null, " Drinkware "),
             this.props.standard_drinkware,
             React.createElement("h2", null, " Serve "),
@@ -276,7 +278,11 @@ function get_rerenderer(recipies) {
                 return true;
             }
             for (const singr of appprops.ingredientSearch) {
-                const contained = r.ingredients.some(i => i.toLowerCase().indexOf(singr) != -1);
+                let searching = r.ingredients;
+                if (r.standard_garnish) {
+                    searching = searching.concat([r.standard_garnish]);
+                }
+                const contained = searching.some(i => i.toLowerCase().indexOf(singr) != -1);
                 if (!contained) {
                     return false;
                 }
