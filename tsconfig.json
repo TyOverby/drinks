@@ -11,7 +11,6 @@
         "jsx": "react"
     },
     "files": [
-        "./src/scripts/index.tsx",
-        "./src/scripts/components/Hello.tsx"
+        "./src/scripts/index.tsx"
     ]
 }
