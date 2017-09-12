@@ -11,7 +11,7 @@ function prepareText(text: string, searches: string[]): JSX.Element {
         } else {
             return <span>
                 {text.slice(0, idx)}
-                <span className="highlight">
+                <span className="highlight" key="hi">
                     {text.slice(idx, idx + search.length)}
                 </span>
                 { text.slice(idx + search.length) }
@@ -19,7 +19,7 @@ function prepareText(text: string, searches: string[]): JSX.Element {
         }
     }
 
-    return <span> {text} </span>
+    return <span>{text}</span>
 }
 
 // 'HelloProps' describes the shape of props.
@@ -27,24 +27,27 @@ function prepareText(text: string, searches: string[]): JSX.Element {
 export class Recipe extends React.Component<RecipeJson & ApplicationProps> {
     render() {
         const garnishText = this.props.standard_garnish !== undefined ?
-            [<h2>Garnish</h2>, prepareText(this.props.standard_garnish, this.props.ingredientSearch)] :
+            [<h2 key="garnish-title">Garnish</h2>,
+             <span key="garnish-body">
+                 {prepareText(this.props.standard_garnish, this.props.ingredientSearch)}
+             </span>] :
             [];
 
         return <div className="recipe">
             <h1> {prepareText(this.props.name, [this.props.nameSearch])} </h1>
 
-            <h2> Ingredients </h2>
+            <h2>Ingredients</h2>
             <ul>{this.props.ingredients.map((i, x) => <li key={x}> {prepareText(i, this.props.ingredientSearch)} </li>)}</ul>
 
-            <h2> Preparation </h2>
+            <h2>Preparation</h2>
             {this.props.preparation}
 
             {garnishText}
 
-            <h2> Drinkware </h2>
+            <h2>Drinkware</h2>
             {this.props.standard_drinkware}
 
-            <h2> Serve </h2>
+            <h2>Serve</h2>
             {this.props.served}
         </div>;
     }

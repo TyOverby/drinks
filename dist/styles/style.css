@@ -17,6 +17,7 @@ ul {
 #grid {
    display: flex;
    flex-wrap: wrap;
+   margin-left: 150px;
 }
 
 .recipe {
@@ -32,7 +33,13 @@ ul {
 }
 
 .recipe > h1 {
-    margin: 0;
+    margin: -5px;
+    padding: 5px;
+    background: linear-gradient(to bottom , rgba(0, 0, 0, 0.03), rgba(255, 255, 255, 0.25));
+    color: black;
+    font-weight: 100;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
 }
 
 .recipe > h2 {
@@ -46,7 +53,27 @@ ul {
 }
 
 #control {
-    padding-left: 3px;
+    width: 150px;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+
+    font-weight: 100;
+    color: white;
+    background: linear-gradient(to bottom right, #1CB5E0, #302b63);
+}
+
+#control h1 {
+    font-weight: 100;
+    margin-left: 10px;
+}
+
+#control input {
+    border: 0;
+    font-size: 1em;
+    font-weight: 100;
+    width: 100%;
 }
 
 .search-group {

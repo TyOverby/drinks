@@ -173,10 +173,10 @@ class ControlPanel extends React.Component {
             React.createElement("form", null,
                 React.createElement("div", { className: "search-group" },
                     React.createElement("label", { htmlFor: "name-search" }, " \uD83D\uDD0D Names "),
-                    React.createElement("input", { id: "name-search", type: "text", onChange: this.updateNameSearch.bind(this) })),
+                    React.createElement("input", { id: "name-search", placeholder: "martini", type: "text", onChange: this.updateNameSearch.bind(this) })),
                 React.createElement("div", { className: "search-group" },
                     React.createElement("label", { htmlFor: "ingredient-search" }, " \uD83D\uDD0D Ingredients "),
-                    React.createElement("input", { id: "ingredient-search", type: "text", onChange: this.updateIngredientsSearch.bind(this) })),
+                    React.createElement("input", { id: "ingredient-search", placeholder: "rum", type: "text", onChange: this.updateIngredientsSearch.bind(this) })),
                 React.createElement("div", null,
                     "Showing ",
                     this.props.searchCount,
@@ -204,38 +204,36 @@ function prepareText(text, searches) {
         else {
             return React.createElement("span", null,
                 text.slice(0, idx),
-                React.createElement("span", { className: "highlight" }, text.slice(idx, idx + search.length)),
+                React.createElement("span", { className: "highlight", key: "hi" }, text.slice(idx, idx + search.length)),
                 text.slice(idx + search.length));
         }
     }
-    return React.createElement("span", null,
-        " ",
-        text,
-        " ");
+    return React.createElement("span", null, text);
 }
 // 'HelloProps' describes the shape of props.
 // State is never set so we use the 'undefined' type.
 class Recipe extends React.Component {
     render() {
         const garnishText = this.props.standard_garnish !== undefined ?
-            [React.createElement("h2", null, "Garnish"), prepareText(this.props.standard_garnish, this.props.ingredientSearch)] :
+            [React.createElement("h2", { key: "garnish-title" }, "Garnish"),
+                React.createElement("span", { key: "garnish-body" }, prepareText(this.props.standard_garnish, this.props.ingredientSearch))] :
             [];
         return React.createElement("div", { className: "recipe" },
             React.createElement("h1", null,
                 " ",
                 prepareText(this.props.name, [this.props.nameSearch]),
                 " "),
-            React.createElement("h2", null, " Ingredients "),
+            React.createElement("h2", null, "Ingredients"),
             React.createElement("ul", null, this.props.ingredients.map((i, x) => React.createElement("li", { key: x },
                 " ",
                 prepareText(i, this.props.ingredientSearch),
                 " "))),
-            React.createElement("h2", null, " Preparation "),
+            React.createElement("h2", null, "Preparation"),
             this.props.preparation,
             garnishText,
-            React.createElement("h2", null, " Drinkware "),
+            React.createElement("h2", null, "Drinkware"),
             this.props.standard_drinkware,
-            React.createElement("h2", null, " Serve "),
+            React.createElement("h2", null, "Serve"),
             this.props.served);
     }
 }
