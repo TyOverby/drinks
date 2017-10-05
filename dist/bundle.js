@@ -170,18 +170,17 @@ class ControlPanel extends React.Component {
     render() {
         return React.createElement("div", { id: "control" },
             React.createElement("h1", null, " DRINKS "),
-            React.createElement("form", null,
-                React.createElement("div", { className: "search-group" },
-                    React.createElement("label", { htmlFor: "name-search" }, " \uD83D\uDD0D Names "),
-                    React.createElement("input", { id: "name-search", placeholder: "martini", type: "text", onChange: this.updateNameSearch.bind(this) })),
-                React.createElement("div", { className: "search-group" },
-                    React.createElement("label", { htmlFor: "ingredient-search" }, " \uD83D\uDD0D Ingredients "),
-                    React.createElement("input", { id: "ingredient-search", placeholder: "rum", type: "text", onChange: this.updateIngredientsSearch.bind(this) })),
-                React.createElement("div", null,
-                    "Showing ",
-                    this.props.searchCount,
-                    " of ",
-                    this.props.totalCount)));
+            React.createElement("div", { className: "search-group" },
+                React.createElement("label", { htmlFor: "name-search" }, " \uD83D\uDD0D\u00A0Names "),
+                React.createElement("input", { id: "name-search", placeholder: "martini", type: "text", onChange: this.updateNameSearch.bind(this) })),
+            React.createElement("div", { className: "search-group" },
+                React.createElement("label", { htmlFor: "ingredient-search" }, " \uD83D\uDD0D\u00A0Ingredients "),
+                React.createElement("input", { id: "ingredient-search", placeholder: "rum", type: "text", onChange: this.updateIngredientsSearch.bind(this) })),
+            React.createElement("div", { id: "showing" },
+                "Showing ",
+                this.props.searchCount,
+                " of ",
+                this.props.totalCount));
     }
 }
 exports.ControlPanel = ControlPanel;

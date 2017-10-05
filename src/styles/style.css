@@ -14,17 +14,10 @@ ul {
     padding-left: 20px;
 }
 
-#grid {
-   display: flex;
-   flex-wrap: wrap;
-   margin-left: 150px;
-}
 
 .recipe {
     margin: 10px;
     padding: 5px;
-    min-width: 350px;
-    flex: 1;
 
     border-radius: 1.5px;
     background: white;
@@ -48,20 +41,13 @@ ul {
     font-size: 15px;
 }
 
-#wrapper {
-   display: flex;
-}
-
 #control {
-    width: 150px;
-    height: 100vh;
-    position: fixed;
-    display: flex;
-    flex-direction: column;
 
     font-weight: 100;
     color: white;
-    background: linear-gradient(to bottom right, #1CB5E0, #302b63);
+    /*background: linear-gradient(to bottom right, #1CB5E0, #302b63);*/
+    background: linear-gradient(to bottom right, #c21500, #ffc500);
+
 }
 
 #control h1 {
@@ -71,17 +57,13 @@ ul {
 
 #control input {
     border: 0;
-    font-size: 1em;
+    font-size: 1.1em;
     font-weight: 100;
     width: 100%;
 }
 
 .search-group {
     margin-bottom: 10px;
-}
-
-.search-group > * {
-    display: block;
 }
 
 .highlight {
