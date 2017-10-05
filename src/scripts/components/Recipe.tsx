@@ -33,19 +33,22 @@ export class Recipe extends React.Component<RecipeJson & ApplicationProps> {
              </span>] :
             [];
 
+        const prepped_ingredients = this.props.ingredients.map((i, x) =>
+            <li key={x}>
+                {prepareText(i, this.props.ingredientSearch)}
+            </li>)
+
         return <div className="recipe">
             <h1> {prepareText(this.props.name, [this.props.nameSearch])} </h1>
+            <span className="drinkware"> ({this.props.standard_drinkware}) </span>
 
             <h2>Ingredients</h2>
-            <ul>{this.props.ingredients.map((i, x) => <li key={x}> {prepareText(i, this.props.ingredientSearch)} </li>)}</ul>
+            <ul>{prepped_ingredients}</ul>
 
             <h2>Preparation</h2>
             {this.props.preparation}
 
             {garnishText}
-
-            <h2>Drinkware</h2>
-            {this.props.standard_drinkware}
 
             <h2>Serve</h2>
             {this.props.served}

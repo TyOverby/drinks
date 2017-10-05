@@ -27,14 +27,14 @@ export class ControlPanel extends React.Component<ControlPanelProps> {
 
     render() {
         return <div id="control">
-            <h1> DRINKS </h1>
+            <h1> Drinks</h1>
                 <div className="search-group">
-                    <label htmlFor="name-search"> 🔍&nbsp;Names </label>
+                    <label htmlFor="name-search"> <span className="search-specifier"></span>&nbsp;Names </label>
                     <input id="name-search" placeholder="martini" type="text" onChange={this.updateNameSearch.bind(this)}></input>
                 </div>
 
                 <div className= "search-group">
-                    <label htmlFor="ingredient-search"> 🔍&nbsp;Ingredients </label>
+                    <label htmlFor="ingredient-search"> <span className="search-specifier"></span>&nbsp;Ingredients </label>
                     <input id="ingredient-search" placeholder="rum" type="text" onChange={this.updateIngredientsSearch.bind(this)}></input>
                 </div>
 

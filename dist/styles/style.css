@@ -1,7 +1,6 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
 }
 
 body {
@@ -19,40 +18,45 @@ ul {
     margin: 10px;
     padding: 5px;
 
-    border-radius: 1.5px;
     background: white;
     font-size: 15px;
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    margin-bottom: 3em;
+
+    font-family: 'Josefin Slab', serif;
 }
 
 .recipe > h1 {
     margin: -5px;
     padding: 5px;
-    background: linear-gradient(to bottom , rgba(0, 0, 0, 0.03), rgba(255, 255, 255, 0.25));
-    color: black;
-    font-weight: 100;
-    border-top-left-radius: 2px;
-    border-top-right-radius: 2px;
+    text-align: center;
+
+    color: rgb(50, 50, 50);
+    font-family: 'noto-serif', serif;
+    font-weight: 700;
 }
 
 .recipe > h2 {
     margin: 0;
     margin-top: 0.7em;
-    font-size: 15px;
+    font-size: 1em;
+    font-weight: 700;
+    font-family: 'Vollkorn', serif;
+    color: rgb(50, 50, 50);
 }
 
 #control {
-
     font-weight: 100;
-    color: white;
-    /*background: linear-gradient(to bottom right, #1CB5E0, #302b63);*/
-    background: linear-gradient(to bottom right, #c21500, #ffc500);
-
+    color: black;
 }
 
 #control h1 {
     font-weight: 100;
     margin-left: 10px;
+    font-family: 'noto serif', serif;
+}
+
+#control label {
+    font-family: 'Vollkorn', serif;
 }
 
 #control input {
@@ -60,6 +64,11 @@ ul {
     font-size: 1.1em;
     font-weight: 100;
     width: 100%;
+    font-family: 'Josefin Slab', serif;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
 }
 
 .search-group {
@@ -67,6 +76,29 @@ ul {
 }
 
 .highlight {
-    background-color: rgb(255, 250, 162);
-    border-radius: 2px;
+    background-color: rgb(255, 255, 0);
+    border-radius: 5px;
+    padding: 2px;
+    margin: -2px;
+}
+
+.drinkware {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+    font-weight: 700;
+    font-family: 'Vollkorn', serif;
+    color: rgb(50, 50, 50);
+}
+
+.search-specifier:before {
+    content: "\01F50D";
+}
+
+/* Desktop */
+@media (min-width: 475px) {
+    .search-specifier:before {
+        content: "Search";
+    }
+
 }
