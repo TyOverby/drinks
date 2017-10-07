@@ -306,10 +306,7 @@
             "Few dashes plain water"
         ],
         "served": "On the rocks; poured over ice",
-        "standard_garnish": [
-            "Orange twist",
-            "cocktail cherry"
-        ],
+        "standard_garnish": "Orange twist and cocktail cherry",
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Whiskey"
