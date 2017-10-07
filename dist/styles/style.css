@@ -91,6 +91,7 @@ ul {
     margin-top: 0;
     font-weight: 700;
     font-family: 'Vollkorn', serif;
+    text-transform: capitalize;
     color: rgb(50, 50, 50);
 }
 

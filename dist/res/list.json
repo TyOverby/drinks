@@ -75,7 +75,7 @@
             "2 cl lime juice",
             "1 cl grenadine syrup"
         ],
-        "served": "straight up",
+        "served": "Straight up; without ice",
         "standard_garnish": "lime",
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
@@ -212,6 +212,7 @@
         "primary_alcohol_by_volume": [
             "Gin"
         ],
+        "served": "Straight up; without ice",
         "preparation": "Pour all ingredients (except soda) in a mixing glass, dry shake (no ice) for two minutes, add ice and hard shake for another minute. Strain into a highball glass without ice, top with soda.",
         "type": "Cocktail"
     },
