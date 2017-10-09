@@ -14,7 +14,8 @@
         "primary_alcohol_by_volume": [
             "Cognac",
             "Cr\u00e8me de cacao"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Americano",
@@ -31,7 +32,8 @@
         "primary_alcohol_by_volume": [
             "Vermouth",
             "Campari"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Angel Face",
@@ -47,7 +49,8 @@
         "primary_alcohol_by_volume": [
             "Gin",
             "Calvados"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Aviation",
@@ -64,7 +67,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Bacardi",
@@ -80,7 +84,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Between the Sheets",
@@ -98,7 +103,8 @@
             "Cognac",
             "Rum",
             "Triple sec"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Casino",
@@ -115,7 +121,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Clover Club",
@@ -131,7 +138,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Daiquiri",
@@ -146,7 +154,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Derby",
@@ -162,7 +171,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Dry Martini",
@@ -177,7 +187,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Gin Fizz",
@@ -193,7 +204,8 @@
             "Gin"
         ],
         "preparation": "Shake all ingredients with ice cubes, except soda water. Pour into tumbler. Top with soda water. Garnish with lemon slice.",
-        "type": "Cocktail"
+        "type": "Cocktail",
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Ramos Gin Fizz",
@@ -214,7 +226,8 @@
         ],
         "served": "Straight up; without ice",
         "preparation": "Pour all ingredients (except soda) in a mixing glass, dry shake (no ice) for two minutes, add ice and hard shake for another minute. Strain into a highball glass without ice, top with soda.",
-        "type": "Cocktail"
+        "type": "Cocktail",
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "John Collins",
@@ -228,7 +241,8 @@
         ],
         "served": "On the rocks; poured over ice",
         "standard_garnish": "Lemon slice and maraschino cherry",
-        "type": "Mixed drink"
+        "type": "Mixed drink",
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Manhattan",
@@ -244,7 +258,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Whiskey"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Mary Pickford",
@@ -260,7 +275,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Monkey Gland",
@@ -276,7 +292,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Negroni",
@@ -294,7 +311,8 @@
             "Gin",
             "Vermouth",
             "Campari"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Old Fashioned",
@@ -311,7 +329,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Whiskey"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Paradise",
@@ -326,7 +345,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Planter's Punch",
@@ -346,7 +366,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Porto flip",
@@ -362,7 +383,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Port"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Rusty Nail",
@@ -377,7 +399,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Scotch whisky"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Sazerac",
@@ -392,7 +415,8 @@
         ],
         "served": "Straight up; without ice",
         "standard_garnish": "Lemon peel",
-        "type": "Cocktail"
+        "type": "Cocktail",
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Screwdriver",
@@ -407,7 +431,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Sidecar",
@@ -422,7 +447,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Cognac"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Stinger",
@@ -436,7 +462,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Cognac"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Tuxedo",
@@ -454,7 +481,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Whiskey sour",
@@ -472,7 +500,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Whiskey"
-        ]
+        ],
+        "category": "IBA/Unforgettable"
     },
     {
         "common_alcohol(s)": [
@@ -491,7 +520,8 @@
         "notes": "This cocktail is a variant of the Sidecar",
         "type": "Cocktail",
         "served": "Straight up (without ice)",
-        "name": "White Lady"
+        "name": "White Lady",
+        "category": "IBA/Unforgettable"
     },
     {
         "name": "Bellini",
@@ -506,7 +536,8 @@
         "type": "Wine cocktail",
         "primary_alcohol_by_volume": [
             "Prosecco"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Black Russian",
@@ -520,7 +551,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Bloody Mary",
@@ -540,7 +572,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Caipirinha",
@@ -557,7 +590,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Cacha\u00e7a"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Champagne Cocktail",
@@ -574,7 +608,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Champagne"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Cosmopolitan",
@@ -592,7 +627,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Cuba Libre",
@@ -608,7 +644,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "French 75",
@@ -623,7 +660,8 @@
         "type": "Wine cocktail",
         "primary_alcohol_by_volume": [
             "Champagne"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "French Connection",
@@ -638,7 +676,8 @@
         "primary_alcohol_by_volume": [
             "Cognac",
             "Amaretto"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "God Father",
@@ -653,7 +692,8 @@
         "primary_alcohol_by_volume": [
             "Scotch whisky",
             "Amaretto"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "God Mother",
@@ -668,7 +708,8 @@
         "primary_alcohol_by_volume": [
             "Scotch whisky",
             "Amaretto"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Golden Dream",
@@ -686,7 +727,8 @@
         "primary_alcohol_by_volume": [
             "Orange-flavored liqueur",
             "Galliano"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Grasshopper",
@@ -702,7 +744,8 @@
         "primary_alcohol_by_volume": [
             "Cr\u00e8me de cacao",
             "Cr\u00e8me de menthe"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Harvey Wallbanger",
@@ -718,7 +761,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "ingredients": [
@@ -730,7 +774,8 @@
         "preparation": "Pour all ingredients into a shaker with ice. Shake.",
         "type": "Mixed drink",
         "name": "Hemingway Special",
-        "standard_drinkware": "double cocktail glass"
+        "standard_drinkware": "double cocktail glass",
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Horse's Neck",
@@ -746,7 +791,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Brandy"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Irish Coffee",
@@ -762,7 +808,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Irish whiskey"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Kir",
@@ -776,7 +823,8 @@
         "type": "Wine cocktail",
         "primary_alcohol_by_volume": [
             "Wine"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Long Island Iced Tea",
@@ -800,7 +848,8 @@
             "Vodka",
             "Rum",
             "Triple sec"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Mai Tai",
@@ -818,7 +867,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Margarita",
@@ -834,7 +884,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Tequila"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Mimosa",
@@ -849,7 +900,8 @@
         "type": "Wine cocktail",
         "primary_alcohol_by_volume": [
             "Champagne"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Mint Julep",
@@ -866,7 +918,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Bourbon whiskey"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Mojito",
@@ -884,7 +937,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Moscow Mule",
@@ -900,7 +954,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Pi\u00f1a Colada",
@@ -914,7 +969,8 @@
         ],
         "served": "Blended",
         "standard_garnish": "Pineapple slice and/or maraschino cherry",
-        "type": "Mixed drink"
+        "type": "Mixed drink",
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Rose",
@@ -930,7 +986,8 @@
         "type": "Wine cocktail",
         "primary_alcohol_by_volume": [
             "Vermouth"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Sea-Breeze",
@@ -946,7 +1003,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Sex on the Beach",
@@ -963,7 +1021,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Singapore Sling",
@@ -984,7 +1043,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "Tequila Sunrise",
@@ -1000,7 +1060,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Tequila"
-        ]
+        ],
+        "category": "IBA/Contemporary"
     },
     {
         "name": "B-52",
@@ -1018,7 +1079,8 @@
             "Coffee liqueur",
             "Irish cream",
             "Orange-flavored liqueur"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Barracuda",
@@ -1034,7 +1096,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Bramble",
@@ -1050,7 +1113,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Dark 'N' Stormy",
@@ -1065,7 +1129,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Dirty Martini",
@@ -1080,7 +1145,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Espresso Martini",
@@ -1097,7 +1163,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "French Martini",
@@ -1113,7 +1180,8 @@
         "primary_alcohol_by_volume": [
             "Vodka",
             "Raspberry liqueur"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Kamikaze",
@@ -1130,7 +1198,8 @@
         "primary_alcohol_by_volume": [
             "Vodka",
             "Triple Sec"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Lemon Drop Martini",
@@ -1146,7 +1215,8 @@
         "type": "Mixed drink",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Pisco Sour",
@@ -1163,7 +1233,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Pisco"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Russian Spring Punch",
@@ -1179,7 +1250,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Vodka"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Spritz Veneziano",
@@ -1195,7 +1267,8 @@
         "type": "Wine cocktail",
         "primary_alcohol_by_volume": [
             "Prosecco"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "ingredients": [
@@ -1207,7 +1280,8 @@
         "type": "Mixed drink",
         "name": "Tommy's Margarita",
         "served": "On the rocks; poured over ice",
-        "standard_drinkware": "cocktail glass"
+        "standard_drinkware": "cocktail glass",
+        "category": "IBA/New Era"
     },
     {
         "name": "Vesper",
@@ -1223,7 +1297,8 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Gin"
-        ]
+        ],
+        "category": "IBA/New Era"
     },
     {
         "name": "Yellow Bird",
@@ -1238,6 +1313,7 @@
         "type": "Cocktail",
         "primary_alcohol_by_volume": [
             "Rum"
-        ]
+        ],
+        "category": "IBA/New Era"
     }
 ]

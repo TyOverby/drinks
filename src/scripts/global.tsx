@@ -8,6 +8,7 @@ import { ControlPanel } from "./components/ControlPanel";
 export interface ApplicationProps {
     nameSearch: string;
     ingredientSearch: string[];
+    recipies: model.RecipeJson[],
     rerender: (app: ApplicationProps) => void;
 }
 
@@ -46,6 +47,5 @@ export function get_rerenderer(recipies: model.RecipeJson[]): (app: ApplicationP
                 <RecipeGrid recipies={r2} app={appprops} />
             </div>,
             document.querySelector("#container"));
-
     }
 }

@@ -49,6 +49,7 @@ ul {
     color: black;
     border-right: 1px solid #d2d2d2;
     padding-right: 10px;
+    font-family: 'Josefin Slab', serif;
 }
 
 #control h1 {
@@ -57,7 +58,7 @@ ul {
     font-family: 'noto serif', serif;
 }
 
-#control label {
+#control .search-group label, #cat-tree > label {
     font-family: 'Vollkorn', serif;
 }
 
@@ -105,4 +106,8 @@ ul {
         content: "Search";
     }
 
+}
+
+#cat-tree {
+    margin-left: 10px;
 }

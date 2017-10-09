@@ -7,6 +7,7 @@ export interface RecipeJson {
     standard_drinkware?: string,
     ingredients: string[],
     preparation?: string,
+    category: string,
 }
 
 export async function getRecipies(): Promise<RecipeJson[]> {

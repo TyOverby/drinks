@@ -78,3 +78,16 @@
 .search-group > * {
     display: block;
 }
+
+.rct-collapse {
+    display: none
+}
+
+#cat-tree {
+    align-self: left;
+}
+
+#showing {
+    margin-top: auto;
+    padding-bottom: 20px;
+}
