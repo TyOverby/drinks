@@ -85,6 +85,7 @@ const RecipeGrid_1 = __webpack_require__(6);
 const ControlPanel_1 = __webpack_require__(4);
 function get_rerenderer(recipies) {
     return function (appprops) {
+        console.log(appprops);
         const nameFilter = (r) => {
             if (appprops.nameSearch == "") {
                 return true;
@@ -110,10 +111,14 @@ function get_rerenderer(recipies) {
             }
             return true;
         };
-        const r2 = recipies.filter(nameFilter).filter(ingredientFilter);
+        const categoryFilter = (r) => {
+            return appprops.categories_checked.indexOf(r.category) != -1;
+        };
+        const catfiltered = recipies.filter(categoryFilter);
+        const filteredRecipies = catfiltered.filter(nameFilter).filter(ingredientFilter);
         ReactDOM.render(React.createElement("div", { id: "wrapper" },
-            React.createElement(ControlPanel_1.ControlPanel, Object.assign({}, appprops, { searchCount: r2.length, totalCount: recipies.length })),
-            React.createElement(RecipeGrid_1.RecipeGrid, { recipies: r2, app: appprops })), document.querySelector("#container"));
+            React.createElement(ControlPanel_1.ControlPanel, { app: appprops, searchCount: filteredRecipies.length, totalCount: recipies.length }),
+            React.createElement(RecipeGrid_1.RecipeGrid, { recipies: filteredRecipies, app: appprops })), document.querySelector("#container"));
     };
 }
 exports.get_rerenderer = get_rerenderer;
@@ -155,13 +160,14 @@ const CheckboxTree = __webpack_require__(8);
 class CategoryTree extends React.Component {
     constructor() {
         super();
-        this.state = {
-            checked: [],
-        };
     }
     render() {
-        const [nodes, expanded] = generateNodes(this.props.recipies);
-        return (React.createElement(CheckboxTree, { showNodeIcon: false, nodes: nodes, checked: this.state.checked, expanded: expanded, onCheck: (checked) => this.setState({ checked }) }));
+        const [nodes, expanded] = generateNodes(this.props.app.recipies);
+        const onCheck = (checked) => {
+            let obj = Object.assign({}, this.props.app);
+            this.props.app.rerender(Object.assign({}, this.props.app, { categories_checked: checked }));
+        };
+        return (React.createElement(CheckboxTree, { showNodeIcon: false, nodes: nodes, checked: this.props.app.categories_checked, expanded: expanded, onCheck: onCheck }));
     }
 }
 exports.CategoryTree = CategoryTree;
@@ -205,7 +211,7 @@ function generateNodes(recipies) {
         let nodes_map = nodes.map(g => ({
             value: prefix + g[0][0],
             label: g[0][0],
-            children: to_tree(prefix + "/" + g[0][0], g.map(s => s.slice(1)), allLabels)
+            children: to_tree(prefix + g[0][0] + "/", g.map(s => s.slice(1)), allLabels)
         }));
         allLabels.push(...nodes_map.map(n => n.value));
         return [...nodes_map, ...term_map];
@@ -232,21 +238,11 @@ const CategoryTree_1 = __webpack_require__(3);
 class ControlPanel extends React.Component {
     updateNameSearch(event) {
         const value = event.target.value.toLowerCase().trim();
-        this.props.rerender({
-            nameSearch: value,
-            ingredientSearch: this.props.ingredientSearch,
-            recipies: this.props.recipies,
-            rerender: this.props.rerender,
-        });
+        this.props.app.rerender(Object.assign({}, this.props.app, { nameSearch: value }));
     }
     updateIngredientsSearch(event) {
         const value = event.target.value.toLowerCase().split(",").map(s => s.trim());
-        this.props.rerender({
-            nameSearch: this.props.nameSearch,
-            ingredientSearch: value,
-            rerender: this.props.rerender,
-            recipies: this.props.recipies,
-        });
+        this.props.app.rerender(Object.assign({}, this.props.app, { ingredientSearch: value }));
     }
     render() {
         return React.createElement("div", { id: "control" },
@@ -265,7 +261,7 @@ class ControlPanel extends React.Component {
                 React.createElement("input", { id: "ingredient-search", placeholder: '"rum"', type: "text", onChange: this.updateIngredientsSearch.bind(this) })),
             React.createElement("div", { id: "cat-tree" },
                 React.createElement("label", null, " Categories "),
-                React.createElement(CategoryTree_1.CategoryTree, Object.assign({}, this.props))),
+                React.createElement(CategoryTree_1.CategoryTree, { app: this.props.app })),
             React.createElement("div", { id: "showing" },
                 "Showing ",
                 this.props.searchCount,
@@ -342,7 +338,11 @@ const Recipe_1 = __webpack_require__(5);
 // State is never set so we use the 'undefined' type.
 class RecipeGrid extends React.Component {
     render() {
-        const rs = this.props.recipies.map(r => React.createElement(Recipe_1.Recipe, Object.assign({ key: r.name }, r, this.props.app), " "));
+        const sorter = (a, b) => a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1;
+        const recipieify = (r) => React.createElement(Recipe_1.Recipe, Object.assign({ key: r.name }, r, this.props.app));
+        const rs = this.props.recipies
+            .sort(sorter)
+            .map(recipieify);
         return React.createElement("div", { id: "grid" }, rs);
     }
 }
@@ -374,6 +374,7 @@ const global_1 = __webpack_require__(1);
         ingredientSearch: [],
         rerender: render,
         recipies: recipies,
+        categories_checked: ["IBA/Contemporary", "IBA/New Era", "IBA/Unforgettable"]
     });
 }))();
 

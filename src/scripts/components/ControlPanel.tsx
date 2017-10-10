@@ -2,7 +2,8 @@ import * as React from "react";
 import { ApplicationProps } from "../global";
 import { CategoryTree } from "./CategoryTree";
 
-type ControlPanelProps = ApplicationProps & {
+type ControlPanelProps = {
+    app: ApplicationProps,
     searchCount: number,
     totalCount: number,
 };
@@ -10,21 +11,17 @@ type ControlPanelProps = ApplicationProps & {
 export class ControlPanel extends React.Component<ControlPanelProps> {
     updateNameSearch(event: React.ChangeEvent<HTMLInputElement>) {
         const value = event.target.value.toLowerCase().trim();
-        this.props.rerender({
+        this.props.app.rerender({
+            ... this.props.app,
             nameSearch: value,
-            ingredientSearch: this.props.ingredientSearch,
-            recipies: this.props.recipies,
-            rerender: this.props.rerender,
         });
     }
 
     updateIngredientsSearch(event: React.ChangeEvent<HTMLInputElement>) {
         const value = event.target.value.toLowerCase().split(",").map(s => s.trim());
-        this.props.rerender({
-            nameSearch: this.props.nameSearch,
+        this.props.app.rerender({
+            ...this.props.app,
             ingredientSearch: value,
-            rerender: this.props.rerender,
-            recipies: this.props.recipies,
         });
     }
 
@@ -43,7 +40,7 @@ export class ControlPanel extends React.Component<ControlPanelProps> {
 
             <div id="cat-tree">
                 <label> Categories </label>
-                <CategoryTree {... this.props} />
+                <CategoryTree app={this.props.app} />
             </div>
             <div id="showing">
                 Showing {this.props.searchCount} of {this.props.totalCount}

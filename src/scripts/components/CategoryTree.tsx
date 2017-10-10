@@ -10,29 +10,26 @@ interface TreeNode {
     children?: TreeNode[],
 }
 
-interface CategoryTreeState {
-    checked: any[],
-}
-
-export class CategoryTree extends React.Component<ApplicationProps, CategoryTreeState> {
+export class CategoryTree extends React.Component<{ app: ApplicationProps }> {
     constructor() {
         super();
-
-        this.state = {
-            checked: [],
-        };
     }
 
     render() {
-        const [nodes, expanded] = generateNodes(this.props.recipies);
+        const [nodes, expanded] = generateNodes(this.props.app.recipies);
+
+        const onCheck = (checked: string[]) => {
+            let obj: ApplicationProps = { ...this.props.app };
+            this.props.app.rerender({...this.props.app, categories_checked: checked});
+        };
 
         return (
             <CheckboxTree
                 showNodeIcon={false}
                 nodes={nodes}
-                checked={this.state.checked}
+                checked={this.props.app.categories_checked}
                 expanded={expanded}
-                onCheck={(checked: any) => this.setState({ checked })}
+                onCheck={onCheck}
             />
         );
     }
@@ -86,7 +83,7 @@ function generateNodes(recipies: RecipeJson[]): [TreeNode[], string[]] {
         let nodes_map = nodes.map(g => ({
             value: prefix + g[0][0],
             label: g[0][0],
-            children: to_tree(prefix + "/" + g[0][0], g.map(s => s.slice(1)), allLabels)
+            children: to_tree(prefix + g[0][0] + "/", g.map(s => s.slice(1)), allLabels)
         }));
 
         allLabels.push(...nodes_map.map(n => n.value));
