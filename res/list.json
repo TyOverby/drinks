@@ -661,6 +661,7 @@
         "primary_alcohol_by_volume": [
             "Champagne"
         ],
+        "served": "Straight up; without ice",
         "category": "IBA/Contemporary"
     },
     {
@@ -775,6 +776,7 @@
         "type": "Mixed drink",
         "name": "Hemingway Special",
         "standard_drinkware": "double cocktail glass",
+        "served": "Straight up; without ice",
         "category": "IBA/Contemporary"
     },
     {
@@ -824,6 +826,7 @@
         "primary_alcohol_by_volume": [
             "Wine"
         ],
+        "served": "Straight up; without ice",
         "category": "IBA/Contemporary"
     },
     {
@@ -1097,6 +1100,7 @@
         "primary_alcohol_by_volume": [
             "Rum"
         ],
+        "served": "Straight up; without ice",
         "category": "IBA/New Era"
     },
     {
@@ -1114,6 +1118,7 @@
         "primary_alcohol_by_volume": [
             "Gin"
         ],
+        "served": "On the rocks; poured over ice",
         "category": "IBA/New Era"
     },
     {
@@ -1314,6 +1319,7 @@
         "primary_alcohol_by_volume": [
             "Rum"
         ],
+        "served": "On the rocks; poured over ice",
         "category": "IBA/New Era"
     }
 ]
