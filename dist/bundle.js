@@ -90,7 +90,11 @@ function get_rerenderer(recipies) {
             if (appprops.nameSearch == "") {
                 return true;
             }
-            if (r.name.toLowerCase().indexOf(appprops.nameSearch) !== -1) {
+            const nameNorm = r.name
+                .toLowerCase()
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, "");
+            if (nameNorm.indexOf(appprops.nameSearch) !== -1) {
                 return true;
             }
             return false;
@@ -282,7 +286,11 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const React = __webpack_require__(0);
 function prepareText(text, searches) {
     for (const search of searches) {
-        const idx = text.toLowerCase().indexOf(search);
+        const nameNorm = text
+            .toLowerCase()
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, "");
+        const idx = nameNorm.indexOf(search);
         if (idx === -1 || search === "") {
             continue;
         }

@@ -19,7 +19,11 @@ export function get_rerenderer(recipies: RecipeJson[]): (app: ApplicationProps) 
 
         const nameFilter = (r: RecipeJson) => {
             if (appprops.nameSearch == "") { return true; }
-            if (r.name.toLowerCase().indexOf(appprops.nameSearch) !== -1) {
+            const nameNorm = r.name
+                .toLowerCase()
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, "")
+            if (nameNorm.indexOf(appprops.nameSearch) !== -1) {
                 return true;
             }
             return false;

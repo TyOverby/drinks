@@ -62,7 +62,7 @@
 }
 
 #wrapper > * {
-    overflow: scroll;
+    overflow: auto;
 }
 
 #control {
